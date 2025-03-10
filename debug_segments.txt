@@ -1,0 +1,4303 @@
+=== Original Segments Information ===
+
+Total segments: 40
+
+Segment 0:
+  Start time: 0.00
+  End time: 4.00
+  Text:  City lights flicker like old home movies
+  Words:
+    -  City: 0.00 - 1.04
+    -  lights: 1.04 - 1.50
+    -  flicker: 1.50 - 2.16
+    -  like: 2.16 - 2.52
+    -  old: 2.52 - 2.90
+    -  home: 2.90 - 3.30
+    -  movies: 3.30 - 4.00
+
+Segment 1:
+  Start time: 4.00
+  End time: 7.32
+  Text:  Neon dreams on a crack screen sky
+  Words:
+    -  Neon: 4.00 - 4.90
+    -  dreams: 4.90 - 5.42
+    -  on: 5.42 - 5.94
+    -  a: 5.94 - 6.08
+    -  crack: 6.08 - 6.32
+    -  screen: 6.32 - 6.82
+    -  sky: 6.82 - 7.32
+
+Segment 2:
+  Start time: 7.32
+  End time: 11.08
+  Text:  People rush past me, faces like echoes
+  Words:
+    -  People: 7.32 - 8.18
+    -  rush: 8.18 - 8.56
+    -  past: 8.56 - 9.02
+    -  me,: 9.02 - 9.46
+    -  faces: 9.70 - 9.98
+    -  like: 9.98 - 10.36
+    -  echoes: 10.36 - 11.08
+
+Segment 3:
+  Start time: 11.08
+  End time: 14.72
+  Text:  But I'm standing still in the middle of time
+  Words:
+    -  But: 11.08 - 11.36
+    -  I'm: 11.36 - 11.68
+    -  standing: 11.68 - 12.12
+    -  still: 12.12 - 12.58
+    -  in: 12.58 - 13.00
+    -  the: 13.00 - 13.14
+    -  middle: 13.14 - 13.54
+    -  of: 13.54 - 13.98
+    -  time: 13.98 - 14.72
+
+Segment 4:
+  Start time: 14.72
+  End time: 18.82
+  Text:  Old attacks, seas blur like golden streaks
+  Words:
+    -  Old: 14.72 - 15.50
+    -  attacks,: 15.50 - 15.94
+    -  seas: 16.28 - 16.48
+    -  blur: 16.48 - 16.82
+    -  like: 16.82 - 17.24
+    -  golden: 17.24 - 17.98
+    -  streaks: 17.98 - 18.82
+
+Segment 5:
+  Start time: 18.82
+  End time: 22.32
+  Text:  A thousand footsteps, but none from me
+  Words:
+    -  A: 18.82 - 19.12
+    -  thousand: 19.12 - 19.86
+    -  footsteps,: 19.86 - 20.66
+    -  but: 21.12 - 21.14
+    -  none: 21.14 - 21.46
+    -  from: 21.46 - 21.80
+    -  me: 21.80 - 22.32
+
+Segment 6:
+  Start time: 22.32
+  End time: 25.10
+  Text:  I'm stuck between the past and tomorrow
+  Words:
+    -  I'm: 22.32 - 22.70
+    -  stuck: 22.70 - 22.98
+    -  between: 22.98 - 23.64
+    -  the: 23.64 - 23.86
+    -  past: 23.86 - 24.18
+    -  and: 24.18 - 24.56
+    -  tomorrow: 24.56 - 25.10
+
+Segment 7:
+  Start time: 25.10
+  End time: 28.70
+  Text:  Waiting for something to set me free
+  Words:
+    -  Waiting: 25.10 - 26.00
+    -  for: 26.00 - 26.22
+    -  something: 26.22 - 26.86
+    -  to: 26.86 - 27.34
+    -  set: 27.34 - 27.68
+    -  me: 27.68 - 28.10
+    -  free: 28.10 - 28.70
+
+Segment 8:
+  Start time: 29.70
+  End time: 34.72
+  Text:  I'm caught in the motion midnight in my veins
+  Words:
+    -  I'm: 29.39 - 29.88
+    -  caught: 29.88 - 30.28
+    -  in: 30.28 - 30.76
+    -  the: 30.76 - 31.00
+    -  motion: 31.00 - 31.54
+    -  midnight: 31.54 - 32.44
+    -  in: 32.44 - 33.04
+    -  my: 33.04 - 33.28
+    -  veins: 33.28 - 34.72
+
+Segment 9:
+  Start time: 35.96
+  End time: 42.52
+  Text:  The world keeps spinning, but I stay the same
+  Words:
+    -  The: 35.96 - 36.94
+    -  world: 36.94 - 37.30
+    -  keeps: 37.30 - 37.80
+    -  spinning,: 37.80 - 38.54
+    -  but: 39.12 - 39.42
+    -  I: 39.42 - 39.72
+    -  stay: 39.72 - 40.12
+    -  the: 40.12 - 40.48
+    -  same: 40.48 - 42.52
+
+Segment 10:
+  Start time: 42.52
+  End time: 48.32
+  Text:  Heart like a record skipping on your name
+  Words:
+    -  Heart: 42.52 - 44.46
+    -  like: 44.46 - 44.90
+    -  a: 44.90 - 45.28
+    -  record: 45.28 - 45.80
+    -  skipping: 45.80 - 46.46
+    -  on: 46.46 - 47.12
+    -  your: 47.12 - 47.44
+    -  name: 47.44 - 48.32
+
+Segment 11:
+  Start time: 48.32
+  End time: 55.82
+  Text:  Tell me, do you feel it, or am I alone in the rain
+  Words:
+    -  Tell: 48.32 - 49.54
+    -  me,: 49.54 - 50.42
+    -  do: 50.68 - 50.96
+    -  you: 50.96 - 51.12
+    -  feel: 51.12 - 51.72
+    -  it,: 51.72 - 52.42
+    -  or: 52.56 - 53.02
+    -  am: 53.02 - 53.28
+    -  I: 53.28 - 53.50
+    -  alone: 53.50 - 54.00
+    -  in: 54.00 - 54.48
+    -  the: 54.48 - 54.76
+    -  rain: 54.76 - 55.82
+
+Segment 12:
+  Start time: 57.18
+  End time: 60.62
+  Text:  Every street feels like déjà vu
+  Words:
+    -  Every: 57.18 - 58.06
+    -  street: 58.06 - 58.52
+    -  feels: 58.52 - 59.14
+    -  like: 59.14 - 59.42
+    -  déjà: 59.42 - 59.96
+    -  vu: 59.96 - 60.62
+
+Segment 13:
+  Start time: 60.62
+  End time: 64.26
+  Text:  Same old coffee shop, table for two
+  Words:
+    -  Same: 60.62 - 61.42
+    -  old: 61.42 - 61.84
+    -  coffee: 61.84 - 62.24
+    -  shop,: 62.24 - 62.68
+    -  table: 62.90 - 63.32
+    -  for: 63.32 - 63.56
+    -  two: 63.56 - 64.26
+
+Segment 14:
+  Start time: 64.26
+  End time: 67.58
+  Text:  But your chair's empty, your voice is missing
+  Words:
+    -  But: 64.26 - 64.68
+    -  your: 64.68 - 64.94
+    -  chair's: 64.94 - 65.60
+    -  empty,: 65.60 - 66.02
+    -  your: 66.50 - 66.54
+    -  voice: 66.54 - 66.92
+    -  is: 66.92 - 67.16
+    -  missing: 67.16 - 67.58
+
+Segment 15:
+  Start time: 67.58
+  End time: 71.28
+  Text:  And I'm lost in a memory I can't undo
+  Words:
+    -  And: 67.58 - 68.18
+    -  I'm: 68.18 - 68.38
+    -  lost: 68.38 - 68.60
+    -  in: 68.60 - 68.86
+    -  a: 68.86 - 69.10
+    -  memory: 69.10 - 69.58
+    -  I: 69.58 - 70.02
+    -  can't: 70.02 - 70.66
+    -  undo: 70.66 - 71.28
+
+Segment 16:
+  Start time: 71.82
+  End time: 77.14
+  Text:  Oh, the sirens hum, a melody, a symphony
+  Words:
+    -  Oh,: 71.82 - 72.34
+    -  the: 72.48 - 72.48
+    -  sirens: 72.48 - 73.18
+    -  hum,: 73.18 - 73.74
+    -  a: 74.48 - 74.60
+    -  melody,: 74.60 - 75.30
+    -  a: 75.46 - 76.16
+    -  symphony: 76.16 - 77.14
+
+Segment 17:
+  Start time: 77.14
+  End time: 82.60
+  Text:  What used to be, I watched my shadow in the windows glow
+  Words:
+    -  What: 77.14 - 77.90
+    -  used: 77.90 - 78.36
+    -  to: 78.36 - 78.72
+    -  be,: 78.72 - 79.08
+    -  I: 79.52 - 79.60
+    -  watched: 79.60 - 80.12
+    -  my: 80.12 - 80.38
+    -  shadow: 80.38 - 80.86
+    -  in: 80.86 - 81.28
+    -  the: 81.28 - 81.46
+    -  windows: 81.46 - 82.04
+    -  glow: 82.04 - 82.60
+
+Segment 18:
+  Start time: 82.60
+  End time: 87.74
+  Text:  Wondering if you're out there searching for me
+  Words:
+    -  Wondering: 82.60 - 83.70
+    -  if: 83.70 - 84.12
+    -  you're: 84.12 - 84.36
+    -  out: 84.36 - 84.64
+    -  there: 84.64 - 85.10
+    -  searching: 85.10 - 86.20
+    -  for: 86.20 - 86.74
+    -  me: 86.74 - 87.74
+
+Segment 19:
+  Start time: 87.74
+  End time: 93.56
+  Text:  I'm caught in the motion midnight in my veins
+  Words:
+    -  I'm: 87.74 - 88.56
+    -  caught: 88.56 - 88.96
+    -  in: 88.96 - 89.42
+    -  the: 89.42 - 89.62
+    -  motion: 89.62 - 90.22
+    -  midnight: 90.22 - 91.06
+    -  in: 91.06 - 91.68
+    -  my: 91.68 - 92.00
+    -  veins: 92.00 - 93.56
+
+Segment 20:
+  Start time: 94.58
+  End time: 100.50
+  Text:  The world keeps spinning, but I stay the same
+  Words:
+    -  The: 94.58 - 95.58
+    -  world: 95.58 - 95.98
+    -  keeps: 95.98 - 96.56
+    -  spinning,: 96.56 - 97.24
+    -  but: 97.74 - 98.08
+    -  I: 98.08 - 98.38
+    -  stay: 98.38 - 98.74
+    -  the: 98.74 - 99.16
+    -  same: 99.16 - 100.50
+
+Segment 21:
+  Start time: 102.12
+  End time: 107.38
+  Text:  Heart like a record skipping on your name
+  Words:
+    -  Heart: 102.12 - 103.12
+    -  like: 103.12 - 103.58
+    -  a: 103.58 - 103.90
+    -  record: 103.90 - 104.24
+    -  skipping: 104.24 - 104.96
+    -  on: 104.96 - 105.78
+    -  your: 105.78 - 106.14
+    -  name: 106.14 - 107.38
+
+Segment 22:
+  Start time: 107.38
+  End time: 114.36
+  Text:  Tell me, do you feel it, or am I alone in the rain
+  Words:
+    -  Tell: 107.38 - 108.18
+    -  me,: 108.18 - 108.92
+    -  do: 109.52 - 109.64
+    -  you: 109.64 - 109.80
+    -  feel: 109.80 - 110.34
+    -  it,: 110.34 - 110.92
+    -  or: 111.30 - 111.68
+    -  am: 111.68 - 111.96
+    -  I: 111.96 - 112.14
+    -  alone: 112.14 - 112.68
+    -  in: 112.68 - 113.10
+    -  the: 113.10 - 113.44
+    -  rain: 113.44 - 114.36
+
+Segment 23:
+  Start time: 115.40
+  End time: 121.84
+  Text:  I whisper to the skyline, but it never answers back
+  Words:
+    -  I: 115.40 - 116.24
+    -  whisper: 116.24 - 116.62
+    -  to: 116.62 - 116.96
+    -  the: 116.96 - 117.14
+    -  skyline,: 117.14 - 118.54
+    -  but: 118.78 - 119.64
+    -  it: 119.64 - 119.86
+    -  never: 119.86 - 120.26
+    -  answers: 120.26 - 120.92
+    -  back: 120.92 - 121.84
+
+Segment 24:
+  Start time: 122.38
+  End time: 128.26
+  Text:  I reach for the past, but it fades into black
+  Words:
+    -  I: 122.38 - 123.34
+    -  reach: 123.34 - 123.66
+    -  for: 123.66 - 124.10
+    -  the: 124.10 - 124.28
+    -  past,: 124.28 - 125.34
+    -  but: 125.48 - 125.86
+    -  it: 125.86 - 126.14
+    -  fades: 126.14 - 126.56
+    -  into: 126.56 - 127.08
+    -  black: 127.08 - 128.26
+
+Segment 25:
+  Start time: 129.50
+  End time: 136.10
+  Text:  Maybe love was a street light flickering out
+  Words:
+    -  Maybe: 129.50 - 130.34
+    -  love: 130.34 - 130.88
+    -  was: 130.88 - 131.24
+    -  a: 131.24 - 131.36
+    -  street: 131.36 - 131.70
+    -  light: 131.70 - 132.74
+    -  flickering: 132.74 - 134.82
+    -  out: 134.82 - 136.10
+
+Segment 26:
+  Start time: 136.10
+  End time: 142.42
+  Text:  Or maybe I'm just learning what life's all about
+  Words:
+    -  Or: 136.10 - 137.54
+    -  maybe: 137.54 - 137.96
+    -  I'm: 137.96 - 138.58
+    -  just: 138.58 - 138.76
+    -  learning: 138.76 - 139.78
+    -  what: 139.78 - 140.70
+    -  life's: 140.70 - 141.32
+    -  all: 141.32 - 141.64
+    -  about: 141.64 - 142.42
+
+Segment 27:
+  Start time: 143.10
+  End time: 148.50
+  Text:  I'm caught in the motion midnight in my veins
+  Words:
+    -  I'm: 143.09 - 143.64
+    -  caught: 143.64 - 144.02
+    -  in: 144.02 - 144.50
+    -  the: 144.50 - 144.70
+    -  motion: 144.70 - 145.30
+    -  midnight: 145.30 - 146.18
+    -  in: 146.18 - 146.72
+    -  my: 146.72 - 147.04
+    -  veins: 147.04 - 148.50
+
+Segment 28:
+  Start time: 149.62
+  End time: 155.78
+  Text:  The world keeps spinning, but I stay the same
+  Words:
+    -  The: 149.62 - 150.72
+    -  world: 150.72 - 151.10
+    -  keeps: 151.10 - 151.74
+    -  spinning,: 151.74 - 152.30
+    -  but: 152.84 - 153.20
+    -  I: 153.20 - 153.50
+    -  stay: 153.50 - 153.90
+    -  the: 153.90 - 154.26
+    -  same: 154.26 - 155.78
+
+Segment 29:
+  Start time: 157.14
+  End time: 162.46
+  Text:  Heart like a record skipping on your name
+  Words:
+    -  Heart: 157.14 - 158.24
+    -  like: 158.24 - 158.70
+    -  a: 158.70 - 159.00
+    -  record: 159.00 - 159.34
+    -  skipping: 159.34 - 160.06
+    -  on: 160.06 - 160.94
+    -  your: 160.94 - 161.26
+    -  name: 161.26 - 162.46
+
+Segment 30:
+  Start time: 162.46
+  End time: 169.38
+  Text:  Tell me, do you feel it, or am I alone in the rain
+  Words:
+    -  Tell: 162.46 - 163.32
+    -  me,: 163.32 - 163.94
+    -  do: 164.62 - 164.76
+    -  you: 164.76 - 164.90
+    -  feel: 164.90 - 165.48
+    -  it,: 165.48 - 166.10
+    -  or: 166.42 - 166.80
+    -  am: 166.80 - 167.08
+    -  I: 167.08 - 167.26
+    -  alone: 167.26 - 167.80
+    -  in: 167.80 - 168.26
+    -  the: 168.26 - 168.56
+    -  rain: 168.56 - 169.38
+
+Segment 31:
+  Start time: 170.92
+  End time: 174.40
+  Text:  Standing still in a world that won't wait
+  Words:
+    -  Standing: 170.92 - 171.80
+    -  still: 171.80 - 172.52
+    -  in: 172.52 - 172.82
+    -  a: 172.82 - 173.06
+    -  world: 173.06 - 173.34
+    -  that: 173.34 - 173.66
+    -  won't: 173.66 - 173.96
+    -  wait: 173.96 - 174.40
+
+Segment 32:
+  Start time: 174.40
+  End time: 178.00
+  Text:  Between yesterday and a runaway fate
+  Words:
+    -  Between: 174.40 - 175.10
+    -  yesterday: 175.10 - 175.56
+    -  and: 175.56 - 176.40
+    -  a: 176.40 - 176.60
+    -  runaway: 176.60 - 177.24
+    -  fate: 177.24 - 178.00
+
+Segment 33:
+  Start time: 178.00
+  End time: 181.50
+  Text:  If I let go, will the stars realign
+  Words:
+    -  If: 178.00 - 178.62
+    -  I: 178.62 - 178.76
+    -  let: 178.76 - 179.08
+    -  go,: 179.08 - 179.46
+    -  will: 179.74 - 179.90
+    -  the: 179.90 - 180.00
+    -  stars: 180.00 - 180.42
+    -  realign: 180.42 - 181.50
+
+Segment 34:
+  Start time: 181.50
+  End time: 187.02
+  Text:  Or am I just another lost light in the night?
+  Words:
+    -  Or: 181.50 - 182.06
+    -  am: 182.06 - 182.30
+    -  I: 182.30 - 182.50
+    -  just: 182.50 - 182.78
+    -  another: 182.78 - 183.32
+    -  lost: 183.32 - 184.22
+    -  light: 184.22 - 184.80
+    -  in: 184.80 - 185.92
+    -  the: 185.92 - 186.22
+    -  night?: 186.22 - 187.02
+
+Segment 35:
+  Start time: 192.46
+  End time: 194.18
+  Text:  I'm caught in the motion midnight in my veins
+  Words:
+    -  I'm: 192.46 - 194.18
+    -  caught: 194.18 - 194.18
+    -  in: 194.18 - 194.18
+    -  the: 194.18 - 194.18
+    -  motion: 194.18 - 194.18
+    -  midnight: 194.18 - 194.18
+    -  in: 194.18 - 194.18
+    -  my: 194.18 - 194.18
+    -  veins: 194.18 - 194.18
+
+Segment 36:
+  Start time: 194.18
+  End time: 194.18
+  Text: 
+  Words:
+
+Segment 37:
+  Start time: 194.18
+  End time: 194.18
+  Text: 
+  Words:
+
+Segment 38:
+  Start time: 194.18
+  End time: 194.18
+  Text: 
+  Words:
+
+Segment 39:
+  Start time: 194.16
+  End time: 194.16
+  Text: 
+  Words:
+
+
+=== All Words ===
+
+Total words: 311
+Word: city, Start: 0.00, End: 1.04
+Word: lights, Start: 1.04, End: 1.50
+Word: flicker, Start: 1.50, End: 2.16
+Word: like, Start: 2.16, End: 2.52
+Word: old, Start: 2.52, End: 2.90
+Word: home, Start: 2.90, End: 3.30
+Word: movies, Start: 3.30, End: 4.00
+Word: neon, Start: 4.00, End: 4.90
+Word: dreams, Start: 4.90, End: 5.42
+Word: on, Start: 5.42, End: 5.94
+Word: a, Start: 5.94, End: 6.08
+Word: crack, Start: 6.08, End: 6.32
+Word: screen, Start: 6.32, End: 6.82
+Word: sky, Start: 6.82, End: 7.32
+Word: people, Start: 7.32, End: 8.18
+Word: rush, Start: 8.18, End: 8.56
+Word: past, Start: 8.56, End: 9.02
+Word: me, Start: 9.02, End: 9.46
+Word: faces, Start: 9.70, End: 9.98
+Word: like, Start: 9.98, End: 10.36
+Word: echoes, Start: 10.36, End: 11.08
+Word: but, Start: 11.08, End: 11.36
+Word: im, Start: 11.36, End: 11.68
+Word: standing, Start: 11.68, End: 12.12
+Word: still, Start: 12.12, End: 12.58
+Word: in, Start: 12.58, End: 13.00
+Word: the, Start: 13.00, End: 13.14
+Word: middle, Start: 13.14, End: 13.54
+Word: of, Start: 13.54, End: 13.98
+Word: time, Start: 13.98, End: 14.72
+Word: old, Start: 14.72, End: 15.50
+Word: attacks, Start: 15.50, End: 15.94
+Word: seas, Start: 16.28, End: 16.48
+Word: blur, Start: 16.48, End: 16.82
+Word: like, Start: 16.82, End: 17.24
+Word: golden, Start: 17.24, End: 17.98
+Word: streaks, Start: 17.98, End: 18.82
+Word: a, Start: 18.82, End: 19.12
+Word: thousand, Start: 19.12, End: 19.86
+Word: footsteps, Start: 19.86, End: 20.66
+Word: but, Start: 21.12, End: 21.14
+Word: none, Start: 21.14, End: 21.46
+Word: from, Start: 21.46, End: 21.80
+Word: me, Start: 21.80, End: 22.32
+Word: im, Start: 22.32, End: 22.70
+Word: stuck, Start: 22.70, End: 22.98
+Word: between, Start: 22.98, End: 23.64
+Word: the, Start: 23.64, End: 23.86
+Word: past, Start: 23.86, End: 24.18
+Word: and, Start: 24.18, End: 24.56
+Word: tomorrow, Start: 24.56, End: 25.10
+Word: waiting, Start: 25.10, End: 26.00
+Word: for, Start: 26.00, End: 26.22
+Word: something, Start: 26.22, End: 26.86
+Word: to, Start: 26.86, End: 27.34
+Word: set, Start: 27.34, End: 27.68
+Word: me, Start: 27.68, End: 28.10
+Word: free, Start: 28.10, End: 28.70
+Word: im, Start: 29.39, End: 29.88
+Word: caught, Start: 29.88, End: 30.28
+Word: in, Start: 30.28, End: 30.76
+Word: the, Start: 30.76, End: 31.00
+Word: motion, Start: 31.00, End: 31.54
+Word: midnight, Start: 31.54, End: 32.44
+Word: in, Start: 32.44, End: 33.04
+Word: my, Start: 33.04, End: 33.28
+Word: veins, Start: 33.28, End: 34.72
+Word: the, Start: 35.96, End: 36.94
+Word: world, Start: 36.94, End: 37.30
+Word: keeps, Start: 37.30, End: 37.80
+Word: spinning, Start: 37.80, End: 38.54
+Word: but, Start: 39.12, End: 39.42
+Word: i, Start: 39.42, End: 39.72
+Word: stay, Start: 39.72, End: 40.12
+Word: the, Start: 40.12, End: 40.48
+Word: same, Start: 40.48, End: 42.52
+Word: heart, Start: 42.52, End: 44.46
+Word: like, Start: 44.46, End: 44.90
+Word: a, Start: 44.90, End: 45.28
+Word: record, Start: 45.28, End: 45.80
+Word: skipping, Start: 45.80, End: 46.46
+Word: on, Start: 46.46, End: 47.12
+Word: your, Start: 47.12, End: 47.44
+Word: name, Start: 47.44, End: 48.32
+Word: tell, Start: 48.32, End: 49.54
+Word: me, Start: 49.54, End: 50.42
+Word: do, Start: 50.68, End: 50.96
+Word: you, Start: 50.96, End: 51.12
+Word: feel, Start: 51.12, End: 51.72
+Word: it, Start: 51.72, End: 52.42
+Word: or, Start: 52.56, End: 53.02
+Word: am, Start: 53.02, End: 53.28
+Word: i, Start: 53.28, End: 53.50
+Word: alone, Start: 53.50, End: 54.00
+Word: in, Start: 54.00, End: 54.48
+Word: the, Start: 54.48, End: 54.76
+Word: rain, Start: 54.76, End: 55.82
+Word: every, Start: 57.18, End: 58.06
+Word: street, Start: 58.06, End: 58.52
+Word: feels, Start: 58.52, End: 59.14
+Word: like, Start: 59.14, End: 59.42
+Word: déjà, Start: 59.42, End: 59.96
+Word: vu, Start: 59.96, End: 60.62
+Word: same, Start: 60.62, End: 61.42
+Word: old, Start: 61.42, End: 61.84
+Word: coffee, Start: 61.84, End: 62.24
+Word: shop, Start: 62.24, End: 62.68
+Word: table, Start: 62.90, End: 63.32
+Word: for, Start: 63.32, End: 63.56
+Word: two, Start: 63.56, End: 64.26
+Word: but, Start: 64.26, End: 64.68
+Word: your, Start: 64.68, End: 64.94
+Word: chairs, Start: 64.94, End: 65.60
+Word: empty, Start: 65.60, End: 66.02
+Word: your, Start: 66.50, End: 66.54
+Word: voice, Start: 66.54, End: 66.92
+Word: is, Start: 66.92, End: 67.16
+Word: missing, Start: 67.16, End: 67.58
+Word: and, Start: 67.58, End: 68.18
+Word: im, Start: 68.18, End: 68.38
+Word: lost, Start: 68.38, End: 68.60
+Word: in, Start: 68.60, End: 68.86
+Word: a, Start: 68.86, End: 69.10
+Word: memory, Start: 69.10, End: 69.58
+Word: i, Start: 69.58, End: 70.02
+Word: cant, Start: 70.02, End: 70.66
+Word: undo, Start: 70.66, End: 71.28
+Word: oh, Start: 71.82, End: 72.34
+Word: the, Start: 72.48, End: 72.48
+Word: sirens, Start: 72.48, End: 73.18
+Word: hum, Start: 73.18, End: 73.74
+Word: a, Start: 74.48, End: 74.60
+Word: melody, Start: 74.60, End: 75.30
+Word: a, Start: 75.46, End: 76.16
+Word: symphony, Start: 76.16, End: 77.14
+Word: what, Start: 77.14, End: 77.90
+Word: used, Start: 77.90, End: 78.36
+Word: to, Start: 78.36, End: 78.72
+Word: be, Start: 78.72, End: 79.08
+Word: i, Start: 79.52, End: 79.60
+Word: watched, Start: 79.60, End: 80.12
+Word: my, Start: 80.12, End: 80.38
+Word: shadow, Start: 80.38, End: 80.86
+Word: in, Start: 80.86, End: 81.28
+Word: the, Start: 81.28, End: 81.46
+Word: windows, Start: 81.46, End: 82.04
+Word: glow, Start: 82.04, End: 82.60
+Word: wondering, Start: 82.60, End: 83.70
+Word: if, Start: 83.70, End: 84.12
+Word: youre, Start: 84.12, End: 84.36
+Word: out, Start: 84.36, End: 84.64
+Word: there, Start: 84.64, End: 85.10
+Word: searching, Start: 85.10, End: 86.20
+Word: for, Start: 86.20, End: 86.74
+Word: me, Start: 86.74, End: 87.74
+Word: im, Start: 87.74, End: 88.56
+Word: caught, Start: 88.56, End: 88.96
+Word: in, Start: 88.96, End: 89.42
+Word: the, Start: 89.42, End: 89.62
+Word: motion, Start: 89.62, End: 90.22
+Word: midnight, Start: 90.22, End: 91.06
+Word: in, Start: 91.06, End: 91.68
+Word: my, Start: 91.68, End: 92.00
+Word: veins, Start: 92.00, End: 93.56
+Word: the, Start: 94.58, End: 95.58
+Word: world, Start: 95.58, End: 95.98
+Word: keeps, Start: 95.98, End: 96.56
+Word: spinning, Start: 96.56, End: 97.24
+Word: but, Start: 97.74, End: 98.08
+Word: i, Start: 98.08, End: 98.38
+Word: stay, Start: 98.38, End: 98.74
+Word: the, Start: 98.74, End: 99.16
+Word: same, Start: 99.16, End: 100.50
+Word: heart, Start: 102.12, End: 103.12
+Word: like, Start: 103.12, End: 103.58
+Word: a, Start: 103.58, End: 103.90
+Word: record, Start: 103.90, End: 104.24
+Word: skipping, Start: 104.24, End: 104.96
+Word: on, Start: 104.96, End: 105.78
+Word: your, Start: 105.78, End: 106.14
+Word: name, Start: 106.14, End: 107.38
+Word: tell, Start: 107.38, End: 108.18
+Word: me, Start: 108.18, End: 108.92
+Word: do, Start: 109.52, End: 109.64
+Word: you, Start: 109.64, End: 109.80
+Word: feel, Start: 109.80, End: 110.34
+Word: it, Start: 110.34, End: 110.92
+Word: or, Start: 111.30, End: 111.68
+Word: am, Start: 111.68, End: 111.96
+Word: i, Start: 111.96, End: 112.14
+Word: alone, Start: 112.14, End: 112.68
+Word: in, Start: 112.68, End: 113.10
+Word: the, Start: 113.10, End: 113.44
+Word: rain, Start: 113.44, End: 114.36
+Word: i, Start: 115.40, End: 116.24
+Word: whisper, Start: 116.24, End: 116.62
+Word: to, Start: 116.62, End: 116.96
+Word: the, Start: 116.96, End: 117.14
+Word: skyline, Start: 117.14, End: 118.54
+Word: but, Start: 118.78, End: 119.64
+Word: it, Start: 119.64, End: 119.86
+Word: never, Start: 119.86, End: 120.26
+Word: answers, Start: 120.26, End: 120.92
+Word: back, Start: 120.92, End: 121.84
+Word: i, Start: 122.38, End: 123.34
+Word: reach, Start: 123.34, End: 123.66
+Word: for, Start: 123.66, End: 124.10
+Word: the, Start: 124.10, End: 124.28
+Word: past, Start: 124.28, End: 125.34
+Word: but, Start: 125.48, End: 125.86
+Word: it, Start: 125.86, End: 126.14
+Word: fades, Start: 126.14, End: 126.56
+Word: into, Start: 126.56, End: 127.08
+Word: black, Start: 127.08, End: 128.26
+Word: maybe, Start: 129.50, End: 130.34
+Word: love, Start: 130.34, End: 130.88
+Word: was, Start: 130.88, End: 131.24
+Word: a, Start: 131.24, End: 131.36
+Word: street, Start: 131.36, End: 131.70
+Word: light, Start: 131.70, End: 132.74
+Word: flickering, Start: 132.74, End: 134.82
+Word: out, Start: 134.82, End: 136.10
+Word: or, Start: 136.10, End: 137.54
+Word: maybe, Start: 137.54, End: 137.96
+Word: im, Start: 137.96, End: 138.58
+Word: just, Start: 138.58, End: 138.76
+Word: learning, Start: 138.76, End: 139.78
+Word: what, Start: 139.78, End: 140.70
+Word: lifes, Start: 140.70, End: 141.32
+Word: all, Start: 141.32, End: 141.64
+Word: about, Start: 141.64, End: 142.42
+Word: im, Start: 143.09, End: 143.64
+Word: caught, Start: 143.64, End: 144.02
+Word: in, Start: 144.02, End: 144.50
+Word: the, Start: 144.50, End: 144.70
+Word: motion, Start: 144.70, End: 145.30
+Word: midnight, Start: 145.30, End: 146.18
+Word: in, Start: 146.18, End: 146.72
+Word: my, Start: 146.72, End: 147.04
+Word: veins, Start: 147.04, End: 148.50
+Word: the, Start: 149.62, End: 150.72
+Word: world, Start: 150.72, End: 151.10
+Word: keeps, Start: 151.10, End: 151.74
+Word: spinning, Start: 151.74, End: 152.30
+Word: but, Start: 152.84, End: 153.20
+Word: i, Start: 153.20, End: 153.50
+Word: stay, Start: 153.50, End: 153.90
+Word: the, Start: 153.90, End: 154.26
+Word: same, Start: 154.26, End: 155.78
+Word: heart, Start: 157.14, End: 158.24
+Word: like, Start: 158.24, End: 158.70
+Word: a, Start: 158.70, End: 159.00
+Word: record, Start: 159.00, End: 159.34
+Word: skipping, Start: 159.34, End: 160.06
+Word: on, Start: 160.06, End: 160.94
+Word: your, Start: 160.94, End: 161.26
+Word: name, Start: 161.26, End: 162.46
+Word: tell, Start: 162.46, End: 163.32
+Word: me, Start: 163.32, End: 163.94
+Word: do, Start: 164.62, End: 164.76
+Word: you, Start: 164.76, End: 164.90
+Word: feel, Start: 164.90, End: 165.48
+Word: it, Start: 165.48, End: 166.10
+Word: or, Start: 166.42, End: 166.80
+Word: am, Start: 166.80, End: 167.08
+Word: i, Start: 167.08, End: 167.26
+Word: alone, Start: 167.26, End: 167.80
+Word: in, Start: 167.80, End: 168.26
+Word: the, Start: 168.26, End: 168.56
+Word: rain, Start: 168.56, End: 169.38
+Word: standing, Start: 170.92, End: 171.80
+Word: still, Start: 171.80, End: 172.52
+Word: in, Start: 172.52, End: 172.82
+Word: a, Start: 172.82, End: 173.06
+Word: world, Start: 173.06, End: 173.34
+Word: that, Start: 173.34, End: 173.66
+Word: wont, Start: 173.66, End: 173.96
+Word: wait, Start: 173.96, End: 174.40
+Word: between, Start: 174.40, End: 175.10
+Word: yesterday, Start: 175.10, End: 175.56
+Word: and, Start: 175.56, End: 176.40
+Word: a, Start: 176.40, End: 176.60
+Word: runaway, Start: 176.60, End: 177.24
+Word: fate, Start: 177.24, End: 178.00
+Word: if, Start: 178.00, End: 178.62
+Word: i, Start: 178.62, End: 178.76
+Word: let, Start: 178.76, End: 179.08
+Word: go, Start: 179.08, End: 179.46
+Word: will, Start: 179.74, End: 179.90
+Word: the, Start: 179.90, End: 180.00
+Word: stars, Start: 180.00, End: 180.42
+Word: realign, Start: 180.42, End: 181.50
+Word: or, Start: 181.50, End: 182.06
+Word: am, Start: 182.06, End: 182.30
+Word: i, Start: 182.30, End: 182.50
+Word: just, Start: 182.50, End: 182.78
+Word: another, Start: 182.78, End: 183.32
+Word: lost, Start: 183.32, End: 184.22
+Word: light, Start: 184.22, End: 184.80
+Word: in, Start: 184.80, End: 185.92
+Word: the, Start: 185.92, End: 186.22
+Word: night, Start: 186.22, End: 187.02
+Word: im, Start: 192.46, End: 194.18
+Word: caught, Start: 194.18, End: 194.18
+Word: in, Start: 194.18, End: 194.18
+Word: the, Start: 194.18, End: 194.18
+Word: motion, Start: 194.18, End: 194.18
+Word: midnight, Start: 194.18, End: 194.18
+Word: in, Start: 194.18, End: 194.18
+Word: my, Start: 194.18, End: 194.18
+Word: veins, Start: 194.18, End: 194.18
+
+
+=== Matching Process ===
+
+Processing line 0: City lights flicker like old home movies,
+Words in line: ['city', 'lights', 'flicker', 'like', 'old', 'home', 'movies']
+Current word index: 0
+Search range: 50
+Window size: 7
+
+  Trying window at index 0:
+    Window text: city lights flicker like old home movies
+    Match ratio: 1.00
+
+Final match for line 0:
+  Matched from 0.00 to 4.00 (match ratio: 1.00)
+  Matched words:
+    - city: 0.00 - 1.04
+    - lights: 1.04 - 1.50
+    - flicker: 1.50 - 2.16
+    - like: 2.16 - 2.52
+    - old: 2.52 - 2.90
+    - home: 2.90 - 3.30
+    - movies: 3.30 - 4.00
+Updated current_word_index to: 7
+
+Processing line 1: Neon dreams on a cracked-screen sky.
+Words in line: ['neon', 'dreams', 'on', 'a', 'crackedscreen', 'sky']
+Current word index: 7
+Search range: 50
+Window size: 6
+
+  Trying window at index 7:
+    Window text: neon dreams on a crack screen
+    Match ratio: 0.67
+
+  Trying window at index 8:
+    Window text: dreams on a crack screen sky
+    Match ratio: 0.67
+
+  Trying window at index 9:
+    Window text: on a crack screen sky people
+    Match ratio: 0.50
+
+  Trying window at index 10:
+    Window text: a crack screen sky people rush
+    Match ratio: 0.33
+
+  Trying window at index 11:
+    Window text: crack screen sky people rush past
+    Match ratio: 0.17
+
+  Trying window at index 12:
+    Window text: screen sky people rush past me
+    Match ratio: 0.17
+
+  Trying window at index 13:
+    Window text: sky people rush past me faces
+    Match ratio: 0.17
+
+  Trying window at index 14:
+    Window text: people rush past me faces like
+    Match ratio: 0.00
+
+  Trying window at index 15:
+    Window text: rush past me faces like echoes
+    Match ratio: 0.00
+
+  Trying window at index 16:
+    Window text: past me faces like echoes but
+    Match ratio: 0.00
+
+  Trying window at index 17:
+    Window text: me faces like echoes but im
+    Match ratio: 0.00
+
+  Trying window at index 18:
+    Window text: faces like echoes but im standing
+    Match ratio: 0.00
+
+  Trying window at index 19:
+    Window text: like echoes but im standing still
+    Match ratio: 0.00
+
+  Trying window at index 20:
+    Window text: echoes but im standing still in
+    Match ratio: 0.00
+
+  Trying window at index 21:
+    Window text: but im standing still in the
+    Match ratio: 0.00
+
+  Trying window at index 22:
+    Window text: im standing still in the middle
+    Match ratio: 0.00
+
+  Trying window at index 23:
+    Window text: standing still in the middle of
+    Match ratio: 0.00
+
+  Trying window at index 24:
+    Window text: still in the middle of time
+    Match ratio: 0.00
+
+  Trying window at index 25:
+    Window text: in the middle of time old
+    Match ratio: 0.00
+
+  Trying window at index 26:
+    Window text: the middle of time old attacks
+    Match ratio: 0.00
+
+  Trying window at index 27:
+    Window text: middle of time old attacks seas
+    Match ratio: 0.00
+
+  Trying window at index 28:
+    Window text: of time old attacks seas blur
+    Match ratio: 0.00
+
+  Trying window at index 29:
+    Window text: time old attacks seas blur like
+    Match ratio: 0.00
+
+  Trying window at index 30:
+    Window text: old attacks seas blur like golden
+    Match ratio: 0.00
+
+  Trying window at index 31:
+    Window text: attacks seas blur like golden streaks
+    Match ratio: 0.00
+
+  Trying window at index 32:
+    Window text: seas blur like golden streaks a
+    Match ratio: 0.17
+
+  Trying window at index 33:
+    Window text: blur like golden streaks a thousand
+    Match ratio: 0.17
+
+  Trying window at index 34:
+    Window text: like golden streaks a thousand footsteps
+    Match ratio: 0.17
+
+  Trying window at index 35:
+    Window text: golden streaks a thousand footsteps but
+    Match ratio: 0.17
+
+  Trying window at index 36:
+    Window text: streaks a thousand footsteps but none
+    Match ratio: 0.17
+
+  Trying window at index 37:
+    Window text: a thousand footsteps but none from
+    Match ratio: 0.17
+
+  Trying window at index 38:
+    Window text: thousand footsteps but none from me
+    Match ratio: 0.00
+
+  Trying window at index 39:
+    Window text: footsteps but none from me im
+    Match ratio: 0.00
+
+  Trying window at index 40:
+    Window text: but none from me im stuck
+    Match ratio: 0.00
+
+  Trying window at index 41:
+    Window text: none from me im stuck between
+    Match ratio: 0.00
+
+  Trying window at index 42:
+    Window text: from me im stuck between the
+    Match ratio: 0.00
+
+  Trying window at index 43:
+    Window text: me im stuck between the past
+    Match ratio: 0.00
+
+  Trying window at index 44:
+    Window text: im stuck between the past and
+    Match ratio: 0.00
+
+  Trying window at index 45:
+    Window text: stuck between the past and tomorrow
+    Match ratio: 0.00
+
+  Trying window at index 46:
+    Window text: between the past and tomorrow waiting
+    Match ratio: 0.00
+
+  Trying window at index 47:
+    Window text: the past and tomorrow waiting for
+    Match ratio: 0.00
+
+  Trying window at index 48:
+    Window text: past and tomorrow waiting for something
+    Match ratio: 0.00
+
+  Trying window at index 49:
+    Window text: and tomorrow waiting for something to
+    Match ratio: 0.00
+
+  Trying window at index 50:
+    Window text: tomorrow waiting for something to set
+    Match ratio: 0.00
+
+  Trying window at index 51:
+    Window text: waiting for something to set me
+    Match ratio: 0.00
+
+  Trying window at index 52:
+    Window text: for something to set me free
+    Match ratio: 0.00
+
+  Trying window at index 53:
+    Window text: something to set me free im
+    Match ratio: 0.00
+
+  Trying window at index 54:
+    Window text: to set me free im caught
+    Match ratio: 0.00
+
+  Trying window at index 55:
+    Window text: set me free im caught in
+    Match ratio: 0.00
+
+  Trying window at index 56:
+    Window text: me free im caught in the
+    Match ratio: 0.00
+
+Final match for line 1:
+  Matched from 4.00 to 6.82 (match ratio: 0.67)
+  Matched words:
+    - neon: 4.00 - 4.90
+    - dreams: 4.90 - 5.42
+    - on: 5.42 - 5.94
+    - a: 5.94 - 6.08
+    - crack: 6.08 - 6.32
+    - screen: 6.32 - 6.82
+Updated current_word_index to: 12
+
+Processing line 2: People rush past me, faces like echoes,
+Words in line: ['people', 'rush', 'past', 'me', 'faces', 'like', 'echoes']
+Current word index: 12
+Search range: 50
+Window size: 7
+
+  Trying window at index 12:
+    Window text: screen sky people rush past me faces
+    Match ratio: 0.71
+
+  Trying window at index 13:
+    Window text: sky people rush past me faces like
+    Match ratio: 0.86
+
+  Trying window at index 14:
+    Window text: people rush past me faces like echoes
+    Match ratio: 1.00
+
+Final match for line 2:
+  Matched from 7.32 to 11.08 (match ratio: 1.00)
+  Matched words:
+    - people: 7.32 - 8.18
+    - rush: 8.18 - 8.56
+    - past: 8.56 - 9.02
+    - me: 9.02 - 9.46
+    - faces: 9.70 - 9.98
+    - like: 9.98 - 10.36
+    - echoes: 10.36 - 11.08
+Updated current_word_index to: 21
+
+Processing line 3: But I’m standing still in the middle of time.
+Words in line: ['but', 'im', 'standing', 'still', 'in', 'the', 'middle', 'of', 'time']
+Current word index: 21
+Search range: 50
+Window size: 9
+
+  Trying window at index 21:
+    Window text: but im standing still in the middle of time
+    Match ratio: 1.00
+
+Final match for line 3:
+  Matched from 11.08 to 14.72 (match ratio: 1.00)
+  Matched words:
+    - but: 11.08 - 11.36
+    - im: 11.36 - 11.68
+    - standing: 11.68 - 12.12
+    - still: 12.12 - 12.58
+    - in: 12.58 - 13.00
+    - the: 13.00 - 13.14
+    - middle: 13.14 - 13.54
+    - of: 13.54 - 13.98
+    - time: 13.98 - 14.72
+Updated current_word_index to: 30
+
+Processing line 4: Oh, the taxis blur like golden streaks,
+Words in line: ['oh', 'the', 'taxis', 'blur', 'like', 'golden', 'streaks']
+Current word index: 30
+Search range: 50
+Window size: 7
+
+  Trying window at index 30:
+    Window text: old attacks seas blur like golden streaks
+    Match ratio: 0.57
+
+  Trying window at index 31:
+    Window text: attacks seas blur like golden streaks a
+    Match ratio: 0.57
+
+  Trying window at index 32:
+    Window text: seas blur like golden streaks a thousand
+    Match ratio: 0.57
+
+  Trying window at index 33:
+    Window text: blur like golden streaks a thousand footsteps
+    Match ratio: 0.57
+
+  Trying window at index 34:
+    Window text: like golden streaks a thousand footsteps but
+    Match ratio: 0.43
+
+  Trying window at index 35:
+    Window text: golden streaks a thousand footsteps but none
+    Match ratio: 0.29
+
+  Trying window at index 36:
+    Window text: streaks a thousand footsteps but none from
+    Match ratio: 0.14
+
+  Trying window at index 37:
+    Window text: a thousand footsteps but none from me
+    Match ratio: 0.00
+
+  Trying window at index 38:
+    Window text: thousand footsteps but none from me im
+    Match ratio: 0.00
+
+  Trying window at index 39:
+    Window text: footsteps but none from me im stuck
+    Match ratio: 0.00
+
+  Trying window at index 40:
+    Window text: but none from me im stuck between
+    Match ratio: 0.00
+
+  Trying window at index 41:
+    Window text: none from me im stuck between the
+    Match ratio: 0.14
+
+  Trying window at index 42:
+    Window text: from me im stuck between the past
+    Match ratio: 0.14
+
+  Trying window at index 43:
+    Window text: me im stuck between the past and
+    Match ratio: 0.14
+
+  Trying window at index 44:
+    Window text: im stuck between the past and tomorrow
+    Match ratio: 0.14
+
+  Trying window at index 45:
+    Window text: stuck between the past and tomorrow waiting
+    Match ratio: 0.14
+
+  Trying window at index 46:
+    Window text: between the past and tomorrow waiting for
+    Match ratio: 0.14
+
+  Trying window at index 47:
+    Window text: the past and tomorrow waiting for something
+    Match ratio: 0.14
+
+  Trying window at index 48:
+    Window text: past and tomorrow waiting for something to
+    Match ratio: 0.00
+
+  Trying window at index 49:
+    Window text: and tomorrow waiting for something to set
+    Match ratio: 0.00
+
+  Trying window at index 50:
+    Window text: tomorrow waiting for something to set me
+    Match ratio: 0.00
+
+  Trying window at index 51:
+    Window text: waiting for something to set me free
+    Match ratio: 0.00
+
+  Trying window at index 52:
+    Window text: for something to set me free im
+    Match ratio: 0.00
+
+  Trying window at index 53:
+    Window text: something to set me free im caught
+    Match ratio: 0.00
+
+  Trying window at index 54:
+    Window text: to set me free im caught in
+    Match ratio: 0.00
+
+  Trying window at index 55:
+    Window text: set me free im caught in the
+    Match ratio: 0.14
+
+  Trying window at index 56:
+    Window text: me free im caught in the motion
+    Match ratio: 0.14
+
+  Trying window at index 57:
+    Window text: free im caught in the motion midnight
+    Match ratio: 0.14
+
+  Trying window at index 58:
+    Window text: im caught in the motion midnight in
+    Match ratio: 0.14
+
+  Trying window at index 59:
+    Window text: caught in the motion midnight in my
+    Match ratio: 0.14
+
+  Trying window at index 60:
+    Window text: in the motion midnight in my veins
+    Match ratio: 0.14
+
+  Trying window at index 61:
+    Window text: the motion midnight in my veins the
+    Match ratio: 0.14
+
+  Trying window at index 62:
+    Window text: motion midnight in my veins the world
+    Match ratio: 0.14
+
+  Trying window at index 63:
+    Window text: midnight in my veins the world keeps
+    Match ratio: 0.14
+
+  Trying window at index 64:
+    Window text: in my veins the world keeps spinning
+    Match ratio: 0.14
+
+  Trying window at index 65:
+    Window text: my veins the world keeps spinning but
+    Match ratio: 0.14
+
+  Trying window at index 66:
+    Window text: veins the world keeps spinning but i
+    Match ratio: 0.14
+
+  Trying window at index 67:
+    Window text: the world keeps spinning but i stay
+    Match ratio: 0.14
+
+  Trying window at index 68:
+    Window text: world keeps spinning but i stay the
+    Match ratio: 0.14
+
+  Trying window at index 69:
+    Window text: keeps spinning but i stay the same
+    Match ratio: 0.14
+
+  Trying window at index 70:
+    Window text: spinning but i stay the same heart
+    Match ratio: 0.14
+
+  Trying window at index 71:
+    Window text: but i stay the same heart like
+    Match ratio: 0.29
+
+  Trying window at index 72:
+    Window text: i stay the same heart like a
+    Match ratio: 0.29
+
+  Trying window at index 73:
+    Window text: stay the same heart like a record
+    Match ratio: 0.29
+
+  Trying window at index 74:
+    Window text: the same heart like a record skipping
+    Match ratio: 0.29
+
+  Trying window at index 75:
+    Window text: same heart like a record skipping on
+    Match ratio: 0.14
+
+  Trying window at index 76:
+    Window text: heart like a record skipping on your
+    Match ratio: 0.14
+
+  Trying window at index 77:
+    Window text: like a record skipping on your name
+    Match ratio: 0.14
+
+  Trying window at index 78:
+    Window text: a record skipping on your name tell
+    Match ratio: 0.00
+
+  Trying window at index 79:
+    Window text: record skipping on your name tell me
+    Match ratio: 0.00
+
+Final match for line 4:
+  Matched from 14.72 to 18.82 (match ratio: 0.57)
+  Matched words:
+    - old: 14.72 - 15.50
+    - attacks: 15.50 - 15.94
+    - seas: 16.28 - 16.48
+    - blur: 16.48 - 16.82
+    - like: 16.82 - 17.24
+    - golden: 17.24 - 17.98
+    - streaks: 17.98 - 18.82
+Updated current_word_index to: 36
+
+Processing line 5: A thousand footsteps, but none for me.
+Words in line: ['a', 'thousand', 'footsteps', 'but', 'none', 'for', 'me']
+Current word index: 36
+Search range: 50
+Window size: 7
+
+  Trying window at index 36:
+    Window text: streaks a thousand footsteps but none from
+    Match ratio: 0.71
+
+  Trying window at index 37:
+    Window text: a thousand footsteps but none from me
+    Match ratio: 0.86
+
+  Trying window at index 38:
+    Window text: thousand footsteps but none from me im
+    Match ratio: 0.71
+
+  Trying window at index 39:
+    Window text: footsteps but none from me im stuck
+    Match ratio: 0.57
+
+  Trying window at index 40:
+    Window text: but none from me im stuck between
+    Match ratio: 0.43
+
+  Trying window at index 41:
+    Window text: none from me im stuck between the
+    Match ratio: 0.29
+
+  Trying window at index 42:
+    Window text: from me im stuck between the past
+    Match ratio: 0.14
+
+  Trying window at index 43:
+    Window text: me im stuck between the past and
+    Match ratio: 0.14
+
+  Trying window at index 44:
+    Window text: im stuck between the past and tomorrow
+    Match ratio: 0.00
+
+  Trying window at index 45:
+    Window text: stuck between the past and tomorrow waiting
+    Match ratio: 0.00
+
+  Trying window at index 46:
+    Window text: between the past and tomorrow waiting for
+    Match ratio: 0.14
+
+  Trying window at index 47:
+    Window text: the past and tomorrow waiting for something
+    Match ratio: 0.14
+
+  Trying window at index 48:
+    Window text: past and tomorrow waiting for something to
+    Match ratio: 0.14
+
+  Trying window at index 49:
+    Window text: and tomorrow waiting for something to set
+    Match ratio: 0.14
+
+  Trying window at index 50:
+    Window text: tomorrow waiting for something to set me
+    Match ratio: 0.29
+
+  Trying window at index 51:
+    Window text: waiting for something to set me free
+    Match ratio: 0.29
+
+  Trying window at index 52:
+    Window text: for something to set me free im
+    Match ratio: 0.29
+
+  Trying window at index 53:
+    Window text: something to set me free im caught
+    Match ratio: 0.14
+
+  Trying window at index 54:
+    Window text: to set me free im caught in
+    Match ratio: 0.14
+
+  Trying window at index 55:
+    Window text: set me free im caught in the
+    Match ratio: 0.14
+
+  Trying window at index 56:
+    Window text: me free im caught in the motion
+    Match ratio: 0.14
+
+  Trying window at index 57:
+    Window text: free im caught in the motion midnight
+    Match ratio: 0.00
+
+  Trying window at index 58:
+    Window text: im caught in the motion midnight in
+    Match ratio: 0.00
+
+  Trying window at index 59:
+    Window text: caught in the motion midnight in my
+    Match ratio: 0.00
+
+  Trying window at index 60:
+    Window text: in the motion midnight in my veins
+    Match ratio: 0.00
+
+  Trying window at index 61:
+    Window text: the motion midnight in my veins the
+    Match ratio: 0.00
+
+  Trying window at index 62:
+    Window text: motion midnight in my veins the world
+    Match ratio: 0.00
+
+  Trying window at index 63:
+    Window text: midnight in my veins the world keeps
+    Match ratio: 0.00
+
+  Trying window at index 64:
+    Window text: in my veins the world keeps spinning
+    Match ratio: 0.00
+
+  Trying window at index 65:
+    Window text: my veins the world keeps spinning but
+    Match ratio: 0.14
+
+  Trying window at index 66:
+    Window text: veins the world keeps spinning but i
+    Match ratio: 0.14
+
+  Trying window at index 67:
+    Window text: the world keeps spinning but i stay
+    Match ratio: 0.14
+
+  Trying window at index 68:
+    Window text: world keeps spinning but i stay the
+    Match ratio: 0.14
+
+  Trying window at index 69:
+    Window text: keeps spinning but i stay the same
+    Match ratio: 0.14
+
+  Trying window at index 70:
+    Window text: spinning but i stay the same heart
+    Match ratio: 0.14
+
+  Trying window at index 71:
+    Window text: but i stay the same heart like
+    Match ratio: 0.14
+
+  Trying window at index 72:
+    Window text: i stay the same heart like a
+    Match ratio: 0.14
+
+  Trying window at index 73:
+    Window text: stay the same heart like a record
+    Match ratio: 0.14
+
+  Trying window at index 74:
+    Window text: the same heart like a record skipping
+    Match ratio: 0.14
+
+  Trying window at index 75:
+    Window text: same heart like a record skipping on
+    Match ratio: 0.14
+
+  Trying window at index 76:
+    Window text: heart like a record skipping on your
+    Match ratio: 0.14
+
+  Trying window at index 77:
+    Window text: like a record skipping on your name
+    Match ratio: 0.14
+
+  Trying window at index 78:
+    Window text: a record skipping on your name tell
+    Match ratio: 0.14
+
+  Trying window at index 79:
+    Window text: record skipping on your name tell me
+    Match ratio: 0.14
+
+  Trying window at index 80:
+    Window text: skipping on your name tell me do
+    Match ratio: 0.14
+
+  Trying window at index 81:
+    Window text: on your name tell me do you
+    Match ratio: 0.14
+
+  Trying window at index 82:
+    Window text: your name tell me do you feel
+    Match ratio: 0.14
+
+  Trying window at index 83:
+    Window text: name tell me do you feel it
+    Match ratio: 0.14
+
+  Trying window at index 84:
+    Window text: tell me do you feel it or
+    Match ratio: 0.14
+
+  Trying window at index 85:
+    Window text: me do you feel it or am
+    Match ratio: 0.14
+
+Final match for line 5:
+  Matched from 18.82 to 22.32 (match ratio: 0.86)
+  Matched words:
+    - a: 18.82 - 19.12
+    - thousand: 19.12 - 19.86
+    - footsteps: 19.86 - 20.66
+    - but: 21.12 - 21.14
+    - none: 21.14 - 21.46
+    - from: 21.46 - 21.80
+    - me: 21.80 - 22.32
+Updated current_word_index to: 43
+
+Processing line 6: I'm stuck between the past and tomorrow,
+Words in line: ['im', 'stuck', 'between', 'the', 'past', 'and', 'tomorrow']
+Current word index: 43
+Search range: 50
+Window size: 7
+
+  Trying window at index 43:
+    Window text: me im stuck between the past and
+    Match ratio: 0.86
+
+  Trying window at index 44:
+    Window text: im stuck between the past and tomorrow
+    Match ratio: 1.00
+
+Final match for line 6:
+  Matched from 22.32 to 25.10 (match ratio: 1.00)
+  Matched words:
+    - im: 22.32 - 22.70
+    - stuck: 22.70 - 22.98
+    - between: 22.98 - 23.64
+    - the: 23.64 - 23.86
+    - past: 23.86 - 24.18
+    - and: 24.18 - 24.56
+    - tomorrow: 24.56 - 25.10
+Updated current_word_index to: 51
+
+Processing line 7: Waiting for something to set me free.
+Words in line: ['waiting', 'for', 'something', 'to', 'set', 'me', 'free']
+Current word index: 51
+Search range: 50
+Window size: 7
+
+  Trying window at index 51:
+    Window text: waiting for something to set me free
+    Match ratio: 1.00
+
+Final match for line 7:
+  Matched from 25.10 to 28.70 (match ratio: 1.00)
+  Matched words:
+    - waiting: 25.10 - 26.00
+    - for: 26.00 - 26.22
+    - something: 26.22 - 26.86
+    - to: 26.86 - 27.34
+    - set: 27.34 - 27.68
+    - me: 27.68 - 28.10
+    - free: 28.10 - 28.70
+Updated current_word_index to: 58
+
+Processing line 8: I’m caught in the motion, midnight in my veins,
+Words in line: ['im', 'caught', 'in', 'the', 'motion', 'midnight', 'in', 'my', 'veins']
+Current word index: 58
+Search range: 50
+Window size: 9
+
+  Trying window at index 58:
+    Window text: im caught in the motion midnight in my veins
+    Match ratio: 0.89
+
+  Trying window at index 59:
+    Window text: caught in the motion midnight in my veins the
+    Match ratio: 0.78
+
+  Trying window at index 60:
+    Window text: in the motion midnight in my veins the world
+    Match ratio: 0.67
+
+  Trying window at index 61:
+    Window text: the motion midnight in my veins the world keeps
+    Match ratio: 0.67
+
+  Trying window at index 62:
+    Window text: motion midnight in my veins the world keeps spinning
+    Match ratio: 0.67
+
+  Trying window at index 63:
+    Window text: midnight in my veins the world keeps spinning but
+    Match ratio: 0.56
+
+  Trying window at index 64:
+    Window text: in my veins the world keeps spinning but i
+    Match ratio: 0.44
+
+  Trying window at index 65:
+    Window text: my veins the world keeps spinning but i stay
+    Match ratio: 0.33
+
+  Trying window at index 66:
+    Window text: veins the world keeps spinning but i stay the
+    Match ratio: 0.22
+
+  Trying window at index 67:
+    Window text: the world keeps spinning but i stay the same
+    Match ratio: 0.11
+
+  Trying window at index 68:
+    Window text: world keeps spinning but i stay the same heart
+    Match ratio: 0.11
+
+  Trying window at index 69:
+    Window text: keeps spinning but i stay the same heart like
+    Match ratio: 0.11
+
+  Trying window at index 70:
+    Window text: spinning but i stay the same heart like a
+    Match ratio: 0.11
+
+  Trying window at index 71:
+    Window text: but i stay the same heart like a record
+    Match ratio: 0.11
+
+  Trying window at index 72:
+    Window text: i stay the same heart like a record skipping
+    Match ratio: 0.11
+
+  Trying window at index 73:
+    Window text: stay the same heart like a record skipping on
+    Match ratio: 0.11
+
+  Trying window at index 74:
+    Window text: the same heart like a record skipping on your
+    Match ratio: 0.11
+
+  Trying window at index 75:
+    Window text: same heart like a record skipping on your name
+    Match ratio: 0.00
+
+  Trying window at index 76:
+    Window text: heart like a record skipping on your name tell
+    Match ratio: 0.00
+
+  Trying window at index 77:
+    Window text: like a record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 78:
+    Window text: a record skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 79:
+    Window text: record skipping on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 80:
+    Window text: skipping on your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 81:
+    Window text: on your name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 82:
+    Window text: your name tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 83:
+    Window text: name tell me do you feel it or am
+    Match ratio: 0.00
+
+  Trying window at index 84:
+    Window text: tell me do you feel it or am i
+    Match ratio: 0.00
+
+  Trying window at index 85:
+    Window text: me do you feel it or am i alone
+    Match ratio: 0.00
+
+  Trying window at index 86:
+    Window text: do you feel it or am i alone in
+    Match ratio: 0.11
+
+  Trying window at index 87:
+    Window text: you feel it or am i alone in the
+    Match ratio: 0.22
+
+  Trying window at index 88:
+    Window text: feel it or am i alone in the rain
+    Match ratio: 0.22
+
+  Trying window at index 89:
+    Window text: it or am i alone in the rain every
+    Match ratio: 0.22
+
+  Trying window at index 90:
+    Window text: or am i alone in the rain every street
+    Match ratio: 0.22
+
+  Trying window at index 91:
+    Window text: am i alone in the rain every street feels
+    Match ratio: 0.22
+
+  Trying window at index 92:
+    Window text: i alone in the rain every street feels like
+    Match ratio: 0.22
+
+  Trying window at index 93:
+    Window text: alone in the rain every street feels like déjà
+    Match ratio: 0.22
+
+  Trying window at index 94:
+    Window text: in the rain every street feels like déjà vu
+    Match ratio: 0.22
+
+  Trying window at index 95:
+    Window text: the rain every street feels like déjà vu same
+    Match ratio: 0.11
+
+  Trying window at index 96:
+    Window text: rain every street feels like déjà vu same old
+    Match ratio: 0.00
+
+  Trying window at index 97:
+    Window text: every street feels like déjà vu same old coffee
+    Match ratio: 0.00
+
+  Trying window at index 98:
+    Window text: street feels like déjà vu same old coffee shop
+    Match ratio: 0.00
+
+  Trying window at index 99:
+    Window text: feels like déjà vu same old coffee shop table
+    Match ratio: 0.00
+
+  Trying window at index 100:
+    Window text: like déjà vu same old coffee shop table for
+    Match ratio: 0.00
+
+  Trying window at index 101:
+    Window text: déjà vu same old coffee shop table for two
+    Match ratio: 0.00
+
+  Trying window at index 102:
+    Window text: vu same old coffee shop table for two but
+    Match ratio: 0.00
+
+  Trying window at index 103:
+    Window text: same old coffee shop table for two but your
+    Match ratio: 0.00
+
+  Trying window at index 104:
+    Window text: old coffee shop table for two but your chairs
+    Match ratio: 0.00
+
+  Trying window at index 105:
+    Window text: coffee shop table for two but your chairs empty
+    Match ratio: 0.00
+
+  Trying window at index 106:
+    Window text: shop table for two but your chairs empty your
+    Match ratio: 0.00
+
+  Trying window at index 107:
+    Window text: table for two but your chairs empty your voice
+    Match ratio: 0.00
+
+Final match for line 8:
+  Matched from 29.39 to 34.72 (match ratio: 0.89)
+  Matched words:
+    - im: 29.39 - 29.88
+    - caught: 29.88 - 30.28
+    - in: 30.28 - 30.76
+    - the: 30.76 - 31.00
+    - motion: 31.00 - 31.54
+    - midnight: 31.54 - 32.44
+    - in: 32.44 - 33.04
+    - my: 33.04 - 33.28
+    - veins: 33.28 - 34.72
+Updated current_word_index to: 66
+
+Processing line 9: The world keeps spinning, but I stay the same.
+Words in line: ['the', 'world', 'keeps', 'spinning', 'but', 'i', 'stay', 'the', 'same']
+Current word index: 66
+Search range: 50
+Window size: 9
+
+  Trying window at index 66:
+    Window text: veins the world keeps spinning but i stay the
+    Match ratio: 0.78
+
+  Trying window at index 67:
+    Window text: the world keeps spinning but i stay the same
+    Match ratio: 0.89
+
+  Trying window at index 68:
+    Window text: world keeps spinning but i stay the same heart
+    Match ratio: 0.89
+
+  Trying window at index 69:
+    Window text: keeps spinning but i stay the same heart like
+    Match ratio: 0.78
+
+  Trying window at index 70:
+    Window text: spinning but i stay the same heart like a
+    Match ratio: 0.67
+
+  Trying window at index 71:
+    Window text: but i stay the same heart like a record
+    Match ratio: 0.56
+
+  Trying window at index 72:
+    Window text: i stay the same heart like a record skipping
+    Match ratio: 0.44
+
+  Trying window at index 73:
+    Window text: stay the same heart like a record skipping on
+    Match ratio: 0.33
+
+  Trying window at index 74:
+    Window text: the same heart like a record skipping on your
+    Match ratio: 0.22
+
+  Trying window at index 75:
+    Window text: same heart like a record skipping on your name
+    Match ratio: 0.11
+
+  Trying window at index 76:
+    Window text: heart like a record skipping on your name tell
+    Match ratio: 0.00
+
+  Trying window at index 77:
+    Window text: like a record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 78:
+    Window text: a record skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 79:
+    Window text: record skipping on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 80:
+    Window text: skipping on your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 81:
+    Window text: on your name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 82:
+    Window text: your name tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 83:
+    Window text: name tell me do you feel it or am
+    Match ratio: 0.00
+
+  Trying window at index 84:
+    Window text: tell me do you feel it or am i
+    Match ratio: 0.11
+
+  Trying window at index 85:
+    Window text: me do you feel it or am i alone
+    Match ratio: 0.11
+
+  Trying window at index 86:
+    Window text: do you feel it or am i alone in
+    Match ratio: 0.11
+
+  Trying window at index 87:
+    Window text: you feel it or am i alone in the
+    Match ratio: 0.22
+
+  Trying window at index 88:
+    Window text: feel it or am i alone in the rain
+    Match ratio: 0.22
+
+  Trying window at index 89:
+    Window text: it or am i alone in the rain every
+    Match ratio: 0.22
+
+  Trying window at index 90:
+    Window text: or am i alone in the rain every street
+    Match ratio: 0.22
+
+  Trying window at index 91:
+    Window text: am i alone in the rain every street feels
+    Match ratio: 0.22
+
+  Trying window at index 92:
+    Window text: i alone in the rain every street feels like
+    Match ratio: 0.22
+
+  Trying window at index 93:
+    Window text: alone in the rain every street feels like déjà
+    Match ratio: 0.11
+
+  Trying window at index 94:
+    Window text: in the rain every street feels like déjà vu
+    Match ratio: 0.11
+
+  Trying window at index 95:
+    Window text: the rain every street feels like déjà vu same
+    Match ratio: 0.22
+
+  Trying window at index 96:
+    Window text: rain every street feels like déjà vu same old
+    Match ratio: 0.11
+
+  Trying window at index 97:
+    Window text: every street feels like déjà vu same old coffee
+    Match ratio: 0.11
+
+  Trying window at index 98:
+    Window text: street feels like déjà vu same old coffee shop
+    Match ratio: 0.11
+
+  Trying window at index 99:
+    Window text: feels like déjà vu same old coffee shop table
+    Match ratio: 0.11
+
+  Trying window at index 100:
+    Window text: like déjà vu same old coffee shop table for
+    Match ratio: 0.11
+
+  Trying window at index 101:
+    Window text: déjà vu same old coffee shop table for two
+    Match ratio: 0.11
+
+  Trying window at index 102:
+    Window text: vu same old coffee shop table for two but
+    Match ratio: 0.22
+
+  Trying window at index 103:
+    Window text: same old coffee shop table for two but your
+    Match ratio: 0.22
+
+  Trying window at index 104:
+    Window text: old coffee shop table for two but your chairs
+    Match ratio: 0.11
+
+  Trying window at index 105:
+    Window text: coffee shop table for two but your chairs empty
+    Match ratio: 0.11
+
+  Trying window at index 106:
+    Window text: shop table for two but your chairs empty your
+    Match ratio: 0.11
+
+  Trying window at index 107:
+    Window text: table for two but your chairs empty your voice
+    Match ratio: 0.11
+
+  Trying window at index 108:
+    Window text: for two but your chairs empty your voice is
+    Match ratio: 0.11
+
+  Trying window at index 109:
+    Window text: two but your chairs empty your voice is missing
+    Match ratio: 0.11
+
+  Trying window at index 110:
+    Window text: but your chairs empty your voice is missing and
+    Match ratio: 0.11
+
+  Trying window at index 111:
+    Window text: your chairs empty your voice is missing and im
+    Match ratio: 0.00
+
+  Trying window at index 112:
+    Window text: chairs empty your voice is missing and im lost
+    Match ratio: 0.00
+
+  Trying window at index 113:
+    Window text: empty your voice is missing and im lost in
+    Match ratio: 0.00
+
+  Trying window at index 114:
+    Window text: your voice is missing and im lost in a
+    Match ratio: 0.00
+
+  Trying window at index 115:
+    Window text: voice is missing and im lost in a memory
+    Match ratio: 0.00
+
+Final match for line 9:
+  Matched from 35.96 to 42.52 (match ratio: 0.89)
+  Matched words:
+    - the: 35.96 - 36.94
+    - world: 36.94 - 37.30
+    - keeps: 37.30 - 37.80
+    - spinning: 37.80 - 38.54
+    - but: 39.12 - 39.42
+    - i: 39.42 - 39.72
+    - stay: 39.72 - 40.12
+    - the: 40.12 - 40.48
+    - same: 40.48 - 42.52
+Updated current_word_index to: 75
+
+Processing line 10: Heart like a record, skipping on your name,
+Words in line: ['heart', 'like', 'a', 'record', 'skipping', 'on', 'your', 'name']
+Current word index: 75
+Search range: 50
+Window size: 8
+
+  Trying window at index 75:
+    Window text: same heart like a record skipping on your
+    Match ratio: 0.88
+
+  Trying window at index 76:
+    Window text: heart like a record skipping on your name
+    Match ratio: 1.00
+
+Final match for line 10:
+  Matched from 42.52 to 48.32 (match ratio: 1.00)
+  Matched words:
+    - heart: 42.52 - 44.46
+    - like: 44.46 - 44.90
+    - a: 44.90 - 45.28
+    - record: 45.28 - 45.80
+    - skipping: 45.80 - 46.46
+    - on: 46.46 - 47.12
+    - your: 47.12 - 47.44
+    - name: 47.44 - 48.32
+Updated current_word_index to: 84
+
+Processing line 11: Tell me, do you feel it, or am I alone in the rain?
+Words in line: ['tell', 'me', 'do', 'you', 'feel', 'it', 'or', 'am', 'i', 'alone', 'in', 'the', 'rain']
+Current word index: 84
+Search range: 50
+Window size: 13
+
+  Trying window at index 84:
+    Window text: tell me do you feel it or am i alone in the rain
+    Match ratio: 1.00
+
+Final match for line 11:
+  Matched from 48.32 to 55.82 (match ratio: 1.00)
+  Matched words:
+    - tell: 48.32 - 49.54
+    - me: 49.54 - 50.42
+    - do: 50.68 - 50.96
+    - you: 50.96 - 51.12
+    - feel: 51.12 - 51.72
+    - it: 51.72 - 52.42
+    - or: 52.56 - 53.02
+    - am: 53.02 - 53.28
+    - i: 53.28 - 53.50
+    - alone: 53.50 - 54.00
+    - in: 54.00 - 54.48
+    - the: 54.48 - 54.76
+    - rain: 54.76 - 55.82
+Updated current_word_index to: 97
+
+Processing line 12: Every street feels like déjà vu,
+Words in line: ['every', 'street', 'feels', 'like', 'déjà', 'vu']
+Current word index: 97
+Search range: 50
+Window size: 6
+
+  Trying window at index 97:
+    Window text: every street feels like déjà vu
+    Match ratio: 1.00
+
+Final match for line 12:
+  Matched from 57.18 to 60.62 (match ratio: 1.00)
+  Matched words:
+    - every: 57.18 - 58.06
+    - street: 58.06 - 58.52
+    - feels: 58.52 - 59.14
+    - like: 59.14 - 59.42
+    - déjà: 59.42 - 59.96
+    - vu: 59.96 - 60.62
+Updated current_word_index to: 103
+
+Processing line 13: Same old coffee shop, table for two.
+Words in line: ['same', 'old', 'coffee', 'shop', 'table', 'for', 'two']
+Current word index: 103
+Search range: 50
+Window size: 7
+
+  Trying window at index 103:
+    Window text: same old coffee shop table for two
+    Match ratio: 1.00
+
+Final match for line 13:
+  Matched from 60.62 to 64.26 (match ratio: 1.00)
+  Matched words:
+    - same: 60.62 - 61.42
+    - old: 61.42 - 61.84
+    - coffee: 61.84 - 62.24
+    - shop: 62.24 - 62.68
+    - table: 62.90 - 63.32
+    - for: 63.32 - 63.56
+    - two: 63.56 - 64.26
+Updated current_word_index to: 110
+
+Processing line 14: But your chair’s empty, your voice is missing,
+Words in line: ['but', 'your', 'chairs', 'empty', 'your', 'voice', 'is', 'missing']
+Current word index: 110
+Search range: 50
+Window size: 8
+
+  Trying window at index 110:
+    Window text: but your chairs empty your voice is missing
+    Match ratio: 0.88
+
+  Trying window at index 111:
+    Window text: your chairs empty your voice is missing and
+    Match ratio: 0.75
+
+  Trying window at index 112:
+    Window text: chairs empty your voice is missing and im
+    Match ratio: 0.75
+
+  Trying window at index 113:
+    Window text: empty your voice is missing and im lost
+    Match ratio: 0.62
+
+  Trying window at index 114:
+    Window text: your voice is missing and im lost in
+    Match ratio: 0.50
+
+  Trying window at index 115:
+    Window text: voice is missing and im lost in a
+    Match ratio: 0.38
+
+  Trying window at index 116:
+    Window text: is missing and im lost in a memory
+    Match ratio: 0.25
+
+  Trying window at index 117:
+    Window text: missing and im lost in a memory i
+    Match ratio: 0.12
+
+  Trying window at index 118:
+    Window text: and im lost in a memory i cant
+    Match ratio: 0.00
+
+  Trying window at index 119:
+    Window text: im lost in a memory i cant undo
+    Match ratio: 0.00
+
+  Trying window at index 120:
+    Window text: lost in a memory i cant undo oh
+    Match ratio: 0.00
+
+  Trying window at index 121:
+    Window text: in a memory i cant undo oh the
+    Match ratio: 0.00
+
+  Trying window at index 122:
+    Window text: a memory i cant undo oh the sirens
+    Match ratio: 0.00
+
+  Trying window at index 123:
+    Window text: memory i cant undo oh the sirens hum
+    Match ratio: 0.00
+
+  Trying window at index 124:
+    Window text: i cant undo oh the sirens hum a
+    Match ratio: 0.00
+
+  Trying window at index 125:
+    Window text: cant undo oh the sirens hum a melody
+    Match ratio: 0.00
+
+  Trying window at index 126:
+    Window text: undo oh the sirens hum a melody a
+    Match ratio: 0.00
+
+  Trying window at index 127:
+    Window text: oh the sirens hum a melody a symphony
+    Match ratio: 0.00
+
+  Trying window at index 128:
+    Window text: the sirens hum a melody a symphony what
+    Match ratio: 0.00
+
+  Trying window at index 129:
+    Window text: sirens hum a melody a symphony what used
+    Match ratio: 0.00
+
+  Trying window at index 130:
+    Window text: hum a melody a symphony what used to
+    Match ratio: 0.00
+
+  Trying window at index 131:
+    Window text: a melody a symphony what used to be
+    Match ratio: 0.00
+
+  Trying window at index 132:
+    Window text: melody a symphony what used to be i
+    Match ratio: 0.00
+
+  Trying window at index 133:
+    Window text: a symphony what used to be i watched
+    Match ratio: 0.00
+
+  Trying window at index 134:
+    Window text: symphony what used to be i watched my
+    Match ratio: 0.00
+
+  Trying window at index 135:
+    Window text: what used to be i watched my shadow
+    Match ratio: 0.00
+
+  Trying window at index 136:
+    Window text: used to be i watched my shadow in
+    Match ratio: 0.00
+
+  Trying window at index 137:
+    Window text: to be i watched my shadow in the
+    Match ratio: 0.00
+
+  Trying window at index 138:
+    Window text: be i watched my shadow in the windows
+    Match ratio: 0.00
+
+  Trying window at index 139:
+    Window text: i watched my shadow in the windows glow
+    Match ratio: 0.00
+
+  Trying window at index 140:
+    Window text: watched my shadow in the windows glow wondering
+    Match ratio: 0.00
+
+  Trying window at index 141:
+    Window text: my shadow in the windows glow wondering if
+    Match ratio: 0.00
+
+  Trying window at index 142:
+    Window text: shadow in the windows glow wondering if youre
+    Match ratio: 0.00
+
+  Trying window at index 143:
+    Window text: in the windows glow wondering if youre out
+    Match ratio: 0.00
+
+  Trying window at index 144:
+    Window text: the windows glow wondering if youre out there
+    Match ratio: 0.00
+
+  Trying window at index 145:
+    Window text: windows glow wondering if youre out there searching
+    Match ratio: 0.00
+
+  Trying window at index 146:
+    Window text: glow wondering if youre out there searching for
+    Match ratio: 0.00
+
+  Trying window at index 147:
+    Window text: wondering if youre out there searching for me
+    Match ratio: 0.00
+
+  Trying window at index 148:
+    Window text: if youre out there searching for me im
+    Match ratio: 0.00
+
+  Trying window at index 149:
+    Window text: youre out there searching for me im caught
+    Match ratio: 0.00
+
+  Trying window at index 150:
+    Window text: out there searching for me im caught in
+    Match ratio: 0.00
+
+  Trying window at index 151:
+    Window text: there searching for me im caught in the
+    Match ratio: 0.00
+
+  Trying window at index 152:
+    Window text: searching for me im caught in the motion
+    Match ratio: 0.00
+
+  Trying window at index 153:
+    Window text: for me im caught in the motion midnight
+    Match ratio: 0.00
+
+  Trying window at index 154:
+    Window text: me im caught in the motion midnight in
+    Match ratio: 0.00
+
+  Trying window at index 155:
+    Window text: im caught in the motion midnight in my
+    Match ratio: 0.00
+
+  Trying window at index 156:
+    Window text: caught in the motion midnight in my veins
+    Match ratio: 0.00
+
+  Trying window at index 157:
+    Window text: in the motion midnight in my veins the
+    Match ratio: 0.00
+
+  Trying window at index 158:
+    Window text: the motion midnight in my veins the world
+    Match ratio: 0.00
+
+  Trying window at index 159:
+    Window text: motion midnight in my veins the world keeps
+    Match ratio: 0.00
+
+Final match for line 14:
+  Matched from 64.26 to 67.58 (match ratio: 0.88)
+  Matched words:
+    - but: 64.26 - 64.68
+    - your: 64.68 - 64.94
+    - chairs: 64.94 - 65.60
+    - empty: 65.60 - 66.02
+    - your: 66.50 - 66.54
+    - voice: 66.54 - 66.92
+    - is: 66.92 - 67.16
+    - missing: 67.16 - 67.58
+Updated current_word_index to: 117
+
+Processing line 15: And I’m lost in a memory I can’t undo.
+Words in line: ['and', 'im', 'lost', 'in', 'a', 'memory', 'i', 'cant', 'undo']
+Current word index: 117
+Search range: 50
+Window size: 9
+
+  Trying window at index 117:
+    Window text: missing and im lost in a memory i cant
+    Match ratio: 0.89
+
+  Trying window at index 118:
+    Window text: and im lost in a memory i cant undo
+    Match ratio: 1.00
+
+Final match for line 15:
+  Matched from 67.58 to 71.28 (match ratio: 1.00)
+  Matched words:
+    - and: 67.58 - 68.18
+    - im: 68.18 - 68.38
+    - lost: 68.38 - 68.60
+    - in: 68.60 - 68.86
+    - a: 68.86 - 69.10
+    - memory: 69.10 - 69.58
+    - i: 69.58 - 70.02
+    - cant: 70.02 - 70.66
+    - undo: 70.66 - 71.28
+Updated current_word_index to: 127
+
+Processing line 16: Oh, the sirens hum a melody,
+Words in line: ['oh', 'the', 'sirens', 'hum', 'a', 'melody']
+Current word index: 127
+Search range: 50
+Window size: 6
+
+  Trying window at index 127:
+    Window text: oh the sirens hum a melody
+    Match ratio: 1.00
+
+Final match for line 16:
+  Matched from 71.82 to 75.30 (match ratio: 1.00)
+  Matched words:
+    - oh: 71.82 - 72.34
+    - the: 72.48 - 72.48
+    - sirens: 72.48 - 73.18
+    - hum: 73.18 - 73.74
+    - a: 74.48 - 74.60
+    - melody: 74.60 - 75.30
+Updated current_word_index to: 133
+
+Processing line 17: A symphony of what used to be.
+Words in line: ['a', 'symphony', 'of', 'what', 'used', 'to', 'be']
+Current word index: 133
+Search range: 50
+Window size: 7
+
+  Trying window at index 133:
+    Window text: a symphony what used to be i
+    Match ratio: 0.86
+
+  Trying window at index 134:
+    Window text: symphony what used to be i watched
+    Match ratio: 0.71
+
+  Trying window at index 135:
+    Window text: what used to be i watched my
+    Match ratio: 0.57
+
+  Trying window at index 136:
+    Window text: used to be i watched my shadow
+    Match ratio: 0.43
+
+  Trying window at index 137:
+    Window text: to be i watched my shadow in
+    Match ratio: 0.29
+
+  Trying window at index 138:
+    Window text: be i watched my shadow in the
+    Match ratio: 0.14
+
+  Trying window at index 139:
+    Window text: i watched my shadow in the windows
+    Match ratio: 0.00
+
+  Trying window at index 140:
+    Window text: watched my shadow in the windows glow
+    Match ratio: 0.00
+
+  Trying window at index 141:
+    Window text: my shadow in the windows glow wondering
+    Match ratio: 0.00
+
+  Trying window at index 142:
+    Window text: shadow in the windows glow wondering if
+    Match ratio: 0.00
+
+  Trying window at index 143:
+    Window text: in the windows glow wondering if youre
+    Match ratio: 0.00
+
+  Trying window at index 144:
+    Window text: the windows glow wondering if youre out
+    Match ratio: 0.00
+
+  Trying window at index 145:
+    Window text: windows glow wondering if youre out there
+    Match ratio: 0.00
+
+  Trying window at index 146:
+    Window text: glow wondering if youre out there searching
+    Match ratio: 0.00
+
+  Trying window at index 147:
+    Window text: wondering if youre out there searching for
+    Match ratio: 0.00
+
+  Trying window at index 148:
+    Window text: if youre out there searching for me
+    Match ratio: 0.00
+
+  Trying window at index 149:
+    Window text: youre out there searching for me im
+    Match ratio: 0.00
+
+  Trying window at index 150:
+    Window text: out there searching for me im caught
+    Match ratio: 0.00
+
+  Trying window at index 151:
+    Window text: there searching for me im caught in
+    Match ratio: 0.00
+
+  Trying window at index 152:
+    Window text: searching for me im caught in the
+    Match ratio: 0.00
+
+  Trying window at index 153:
+    Window text: for me im caught in the motion
+    Match ratio: 0.00
+
+  Trying window at index 154:
+    Window text: me im caught in the motion midnight
+    Match ratio: 0.00
+
+  Trying window at index 155:
+    Window text: im caught in the motion midnight in
+    Match ratio: 0.00
+
+  Trying window at index 156:
+    Window text: caught in the motion midnight in my
+    Match ratio: 0.00
+
+  Trying window at index 157:
+    Window text: in the motion midnight in my veins
+    Match ratio: 0.00
+
+  Trying window at index 158:
+    Window text: the motion midnight in my veins the
+    Match ratio: 0.00
+
+  Trying window at index 159:
+    Window text: motion midnight in my veins the world
+    Match ratio: 0.00
+
+  Trying window at index 160:
+    Window text: midnight in my veins the world keeps
+    Match ratio: 0.00
+
+  Trying window at index 161:
+    Window text: in my veins the world keeps spinning
+    Match ratio: 0.00
+
+  Trying window at index 162:
+    Window text: my veins the world keeps spinning but
+    Match ratio: 0.00
+
+  Trying window at index 163:
+    Window text: veins the world keeps spinning but i
+    Match ratio: 0.00
+
+  Trying window at index 164:
+    Window text: the world keeps spinning but i stay
+    Match ratio: 0.00
+
+  Trying window at index 165:
+    Window text: world keeps spinning but i stay the
+    Match ratio: 0.00
+
+  Trying window at index 166:
+    Window text: keeps spinning but i stay the same
+    Match ratio: 0.00
+
+  Trying window at index 167:
+    Window text: spinning but i stay the same heart
+    Match ratio: 0.00
+
+  Trying window at index 168:
+    Window text: but i stay the same heart like
+    Match ratio: 0.00
+
+  Trying window at index 169:
+    Window text: i stay the same heart like a
+    Match ratio: 0.14
+
+  Trying window at index 170:
+    Window text: stay the same heart like a record
+    Match ratio: 0.14
+
+  Trying window at index 171:
+    Window text: the same heart like a record skipping
+    Match ratio: 0.14
+
+  Trying window at index 172:
+    Window text: same heart like a record skipping on
+    Match ratio: 0.14
+
+  Trying window at index 173:
+    Window text: heart like a record skipping on your
+    Match ratio: 0.14
+
+  Trying window at index 174:
+    Window text: like a record skipping on your name
+    Match ratio: 0.14
+
+  Trying window at index 175:
+    Window text: a record skipping on your name tell
+    Match ratio: 0.14
+
+  Trying window at index 176:
+    Window text: record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 177:
+    Window text: skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 178:
+    Window text: on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 179:
+    Window text: your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 180:
+    Window text: name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 181:
+    Window text: tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 182:
+    Window text: me do you feel it or am
+    Match ratio: 0.00
+
+Final match for line 17:
+  Matched from 75.46 to 79.60 (match ratio: 0.86)
+  Matched words:
+    - a: 75.46 - 76.16
+    - symphony: 76.16 - 77.14
+    - what: 77.14 - 77.90
+    - used: 77.90 - 78.36
+    - to: 78.36 - 78.72
+    - be: 78.72 - 79.08
+    - i: 79.52 - 79.60
+Updated current_word_index to: 139
+
+Processing line 18: I watch my shadow in the window’s glow,
+Words in line: ['i', 'watch', 'my', 'shadow', 'in', 'the', 'windows', 'glow']
+Current word index: 139
+Search range: 50
+Window size: 8
+
+  Trying window at index 139:
+    Window text: i watched my shadow in the windows glow
+    Match ratio: 0.88
+
+  Trying window at index 140:
+    Window text: watched my shadow in the windows glow wondering
+    Match ratio: 0.75
+
+  Trying window at index 141:
+    Window text: my shadow in the windows glow wondering if
+    Match ratio: 0.75
+
+  Trying window at index 142:
+    Window text: shadow in the windows glow wondering if youre
+    Match ratio: 0.62
+
+  Trying window at index 143:
+    Window text: in the windows glow wondering if youre out
+    Match ratio: 0.50
+
+  Trying window at index 144:
+    Window text: the windows glow wondering if youre out there
+    Match ratio: 0.38
+
+  Trying window at index 145:
+    Window text: windows glow wondering if youre out there searching
+    Match ratio: 0.25
+
+  Trying window at index 146:
+    Window text: glow wondering if youre out there searching for
+    Match ratio: 0.12
+
+  Trying window at index 147:
+    Window text: wondering if youre out there searching for me
+    Match ratio: 0.00
+
+  Trying window at index 148:
+    Window text: if youre out there searching for me im
+    Match ratio: 0.00
+
+  Trying window at index 149:
+    Window text: youre out there searching for me im caught
+    Match ratio: 0.00
+
+  Trying window at index 150:
+    Window text: out there searching for me im caught in
+    Match ratio: 0.12
+
+  Trying window at index 151:
+    Window text: there searching for me im caught in the
+    Match ratio: 0.25
+
+  Trying window at index 152:
+    Window text: searching for me im caught in the motion
+    Match ratio: 0.25
+
+  Trying window at index 153:
+    Window text: for me im caught in the motion midnight
+    Match ratio: 0.25
+
+  Trying window at index 154:
+    Window text: me im caught in the motion midnight in
+    Match ratio: 0.25
+
+  Trying window at index 155:
+    Window text: im caught in the motion midnight in my
+    Match ratio: 0.38
+
+  Trying window at index 156:
+    Window text: caught in the motion midnight in my veins
+    Match ratio: 0.38
+
+  Trying window at index 157:
+    Window text: in the motion midnight in my veins the
+    Match ratio: 0.38
+
+  Trying window at index 158:
+    Window text: the motion midnight in my veins the world
+    Match ratio: 0.38
+
+  Trying window at index 159:
+    Window text: motion midnight in my veins the world keeps
+    Match ratio: 0.38
+
+  Trying window at index 160:
+    Window text: midnight in my veins the world keeps spinning
+    Match ratio: 0.38
+
+  Trying window at index 161:
+    Window text: in my veins the world keeps spinning but
+    Match ratio: 0.38
+
+  Trying window at index 162:
+    Window text: my veins the world keeps spinning but i
+    Match ratio: 0.38
+
+  Trying window at index 163:
+    Window text: veins the world keeps spinning but i stay
+    Match ratio: 0.25
+
+  Trying window at index 164:
+    Window text: the world keeps spinning but i stay the
+    Match ratio: 0.25
+
+  Trying window at index 165:
+    Window text: world keeps spinning but i stay the same
+    Match ratio: 0.25
+
+  Trying window at index 166:
+    Window text: keeps spinning but i stay the same heart
+    Match ratio: 0.25
+
+  Trying window at index 167:
+    Window text: spinning but i stay the same heart like
+    Match ratio: 0.25
+
+  Trying window at index 168:
+    Window text: but i stay the same heart like a
+    Match ratio: 0.25
+
+  Trying window at index 169:
+    Window text: i stay the same heart like a record
+    Match ratio: 0.25
+
+  Trying window at index 170:
+    Window text: stay the same heart like a record skipping
+    Match ratio: 0.12
+
+  Trying window at index 171:
+    Window text: the same heart like a record skipping on
+    Match ratio: 0.12
+
+  Trying window at index 172:
+    Window text: same heart like a record skipping on your
+    Match ratio: 0.00
+
+  Trying window at index 173:
+    Window text: heart like a record skipping on your name
+    Match ratio: 0.00
+
+  Trying window at index 174:
+    Window text: like a record skipping on your name tell
+    Match ratio: 0.00
+
+  Trying window at index 175:
+    Window text: a record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 176:
+    Window text: record skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 177:
+    Window text: skipping on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 178:
+    Window text: on your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 179:
+    Window text: your name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 180:
+    Window text: name tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 181:
+    Window text: tell me do you feel it or am
+    Match ratio: 0.00
+
+  Trying window at index 182:
+    Window text: me do you feel it or am i
+    Match ratio: 0.12
+
+  Trying window at index 183:
+    Window text: do you feel it or am i alone
+    Match ratio: 0.12
+
+  Trying window at index 184:
+    Window text: you feel it or am i alone in
+    Match ratio: 0.25
+
+  Trying window at index 185:
+    Window text: feel it or am i alone in the
+    Match ratio: 0.38
+
+  Trying window at index 186:
+    Window text: it or am i alone in the rain
+    Match ratio: 0.38
+
+  Trying window at index 187:
+    Window text: or am i alone in the rain i
+    Match ratio: 0.38
+
+  Trying window at index 188:
+    Window text: am i alone in the rain i whisper
+    Match ratio: 0.38
+
+Final match for line 18:
+  Matched from 79.52 to 82.60 (match ratio: 0.88)
+  Matched words:
+    - i: 79.52 - 79.60
+    - watched: 79.60 - 80.12
+    - my: 80.12 - 80.38
+    - shadow: 80.38 - 80.86
+    - in: 80.86 - 81.28
+    - the: 81.28 - 81.46
+    - windows: 81.46 - 82.04
+    - glow: 82.04 - 82.60
+Updated current_word_index to: 146
+
+Processing line 19: Wondering if you’re out there, searching for me.
+Words in line: ['wondering', 'if', 'youre', 'out', 'there', 'searching', 'for', 'me']
+Current word index: 146
+Search range: 50
+Window size: 8
+
+  Trying window at index 146:
+    Window text: glow wondering if youre out there searching for
+    Match ratio: 0.88
+
+  Trying window at index 147:
+    Window text: wondering if youre out there searching for me
+    Match ratio: 1.00
+
+Final match for line 19:
+  Matched from 82.60 to 87.74 (match ratio: 1.00)
+  Matched words:
+    - wondering: 82.60 - 83.70
+    - if: 83.70 - 84.12
+    - youre: 84.12 - 84.36
+    - out: 84.36 - 84.64
+    - there: 84.64 - 85.10
+    - searching: 85.10 - 86.20
+    - for: 86.20 - 86.74
+    - me: 86.74 - 87.74
+Updated current_word_index to: 155
+
+Processing line 20: I’m caught in the motion, midnight in my veins,
+Words in line: ['im', 'caught', 'in', 'the', 'motion', 'midnight', 'in', 'my', 'veins']
+Current word index: 155
+Search range: 50
+Window size: 9
+
+  Trying window at index 155:
+    Window text: im caught in the motion midnight in my veins
+    Match ratio: 0.89
+
+  Trying window at index 156:
+    Window text: caught in the motion midnight in my veins the
+    Match ratio: 0.78
+
+  Trying window at index 157:
+    Window text: in the motion midnight in my veins the world
+    Match ratio: 0.67
+
+  Trying window at index 158:
+    Window text: the motion midnight in my veins the world keeps
+    Match ratio: 0.67
+
+  Trying window at index 159:
+    Window text: motion midnight in my veins the world keeps spinning
+    Match ratio: 0.67
+
+  Trying window at index 160:
+    Window text: midnight in my veins the world keeps spinning but
+    Match ratio: 0.56
+
+  Trying window at index 161:
+    Window text: in my veins the world keeps spinning but i
+    Match ratio: 0.44
+
+  Trying window at index 162:
+    Window text: my veins the world keeps spinning but i stay
+    Match ratio: 0.33
+
+  Trying window at index 163:
+    Window text: veins the world keeps spinning but i stay the
+    Match ratio: 0.22
+
+  Trying window at index 164:
+    Window text: the world keeps spinning but i stay the same
+    Match ratio: 0.11
+
+  Trying window at index 165:
+    Window text: world keeps spinning but i stay the same heart
+    Match ratio: 0.11
+
+  Trying window at index 166:
+    Window text: keeps spinning but i stay the same heart like
+    Match ratio: 0.11
+
+  Trying window at index 167:
+    Window text: spinning but i stay the same heart like a
+    Match ratio: 0.11
+
+  Trying window at index 168:
+    Window text: but i stay the same heart like a record
+    Match ratio: 0.11
+
+  Trying window at index 169:
+    Window text: i stay the same heart like a record skipping
+    Match ratio: 0.11
+
+  Trying window at index 170:
+    Window text: stay the same heart like a record skipping on
+    Match ratio: 0.11
+
+  Trying window at index 171:
+    Window text: the same heart like a record skipping on your
+    Match ratio: 0.11
+
+  Trying window at index 172:
+    Window text: same heart like a record skipping on your name
+    Match ratio: 0.00
+
+  Trying window at index 173:
+    Window text: heart like a record skipping on your name tell
+    Match ratio: 0.00
+
+  Trying window at index 174:
+    Window text: like a record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 175:
+    Window text: a record skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 176:
+    Window text: record skipping on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 177:
+    Window text: skipping on your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 178:
+    Window text: on your name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 179:
+    Window text: your name tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 180:
+    Window text: name tell me do you feel it or am
+    Match ratio: 0.00
+
+  Trying window at index 181:
+    Window text: tell me do you feel it or am i
+    Match ratio: 0.00
+
+  Trying window at index 182:
+    Window text: me do you feel it or am i alone
+    Match ratio: 0.00
+
+  Trying window at index 183:
+    Window text: do you feel it or am i alone in
+    Match ratio: 0.11
+
+  Trying window at index 184:
+    Window text: you feel it or am i alone in the
+    Match ratio: 0.22
+
+  Trying window at index 185:
+    Window text: feel it or am i alone in the rain
+    Match ratio: 0.22
+
+  Trying window at index 186:
+    Window text: it or am i alone in the rain i
+    Match ratio: 0.22
+
+  Trying window at index 187:
+    Window text: or am i alone in the rain i whisper
+    Match ratio: 0.22
+
+  Trying window at index 188:
+    Window text: am i alone in the rain i whisper to
+    Match ratio: 0.22
+
+  Trying window at index 189:
+    Window text: i alone in the rain i whisper to the
+    Match ratio: 0.22
+
+  Trying window at index 190:
+    Window text: alone in the rain i whisper to the skyline
+    Match ratio: 0.22
+
+  Trying window at index 191:
+    Window text: in the rain i whisper to the skyline but
+    Match ratio: 0.22
+
+  Trying window at index 192:
+    Window text: the rain i whisper to the skyline but it
+    Match ratio: 0.11
+
+  Trying window at index 193:
+    Window text: rain i whisper to the skyline but it never
+    Match ratio: 0.11
+
+  Trying window at index 194:
+    Window text: i whisper to the skyline but it never answers
+    Match ratio: 0.11
+
+  Trying window at index 195:
+    Window text: whisper to the skyline but it never answers back
+    Match ratio: 0.11
+
+  Trying window at index 196:
+    Window text: to the skyline but it never answers back i
+    Match ratio: 0.11
+
+  Trying window at index 197:
+    Window text: the skyline but it never answers back i reach
+    Match ratio: 0.11
+
+  Trying window at index 198:
+    Window text: skyline but it never answers back i reach for
+    Match ratio: 0.00
+
+  Trying window at index 199:
+    Window text: but it never answers back i reach for the
+    Match ratio: 0.11
+
+  Trying window at index 200:
+    Window text: it never answers back i reach for the past
+    Match ratio: 0.11
+
+  Trying window at index 201:
+    Window text: never answers back i reach for the past but
+    Match ratio: 0.11
+
+  Trying window at index 202:
+    Window text: answers back i reach for the past but it
+    Match ratio: 0.11
+
+  Trying window at index 203:
+    Window text: back i reach for the past but it fades
+    Match ratio: 0.11
+
+  Trying window at index 204:
+    Window text: i reach for the past but it fades into
+    Match ratio: 0.11
+
+Final match for line 20:
+  Matched from 87.74 to 93.56 (match ratio: 0.89)
+  Matched words:
+    - im: 87.74 - 88.56
+    - caught: 88.56 - 88.96
+    - in: 88.96 - 89.42
+    - the: 89.42 - 89.62
+    - motion: 89.62 - 90.22
+    - midnight: 90.22 - 91.06
+    - in: 91.06 - 91.68
+    - my: 91.68 - 92.00
+    - veins: 92.00 - 93.56
+Updated current_word_index to: 163
+
+Processing line 21: The world keeps spinning, but I stay the same.
+Words in line: ['the', 'world', 'keeps', 'spinning', 'but', 'i', 'stay', 'the', 'same']
+Current word index: 163
+Search range: 50
+Window size: 9
+
+  Trying window at index 163:
+    Window text: veins the world keeps spinning but i stay the
+    Match ratio: 0.78
+
+  Trying window at index 164:
+    Window text: the world keeps spinning but i stay the same
+    Match ratio: 0.89
+
+  Trying window at index 165:
+    Window text: world keeps spinning but i stay the same heart
+    Match ratio: 0.89
+
+  Trying window at index 166:
+    Window text: keeps spinning but i stay the same heart like
+    Match ratio: 0.78
+
+  Trying window at index 167:
+    Window text: spinning but i stay the same heart like a
+    Match ratio: 0.67
+
+  Trying window at index 168:
+    Window text: but i stay the same heart like a record
+    Match ratio: 0.56
+
+  Trying window at index 169:
+    Window text: i stay the same heart like a record skipping
+    Match ratio: 0.44
+
+  Trying window at index 170:
+    Window text: stay the same heart like a record skipping on
+    Match ratio: 0.33
+
+  Trying window at index 171:
+    Window text: the same heart like a record skipping on your
+    Match ratio: 0.22
+
+  Trying window at index 172:
+    Window text: same heart like a record skipping on your name
+    Match ratio: 0.11
+
+  Trying window at index 173:
+    Window text: heart like a record skipping on your name tell
+    Match ratio: 0.00
+
+  Trying window at index 174:
+    Window text: like a record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 175:
+    Window text: a record skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 176:
+    Window text: record skipping on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 177:
+    Window text: skipping on your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 178:
+    Window text: on your name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 179:
+    Window text: your name tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 180:
+    Window text: name tell me do you feel it or am
+    Match ratio: 0.00
+
+  Trying window at index 181:
+    Window text: tell me do you feel it or am i
+    Match ratio: 0.11
+
+  Trying window at index 182:
+    Window text: me do you feel it or am i alone
+    Match ratio: 0.11
+
+  Trying window at index 183:
+    Window text: do you feel it or am i alone in
+    Match ratio: 0.11
+
+  Trying window at index 184:
+    Window text: you feel it or am i alone in the
+    Match ratio: 0.22
+
+  Trying window at index 185:
+    Window text: feel it or am i alone in the rain
+    Match ratio: 0.22
+
+  Trying window at index 186:
+    Window text: it or am i alone in the rain i
+    Match ratio: 0.22
+
+  Trying window at index 187:
+    Window text: or am i alone in the rain i whisper
+    Match ratio: 0.22
+
+  Trying window at index 188:
+    Window text: am i alone in the rain i whisper to
+    Match ratio: 0.22
+
+  Trying window at index 189:
+    Window text: i alone in the rain i whisper to the
+    Match ratio: 0.22
+
+  Trying window at index 190:
+    Window text: alone in the rain i whisper to the skyline
+    Match ratio: 0.22
+
+  Trying window at index 191:
+    Window text: in the rain i whisper to the skyline but
+    Match ratio: 0.33
+
+  Trying window at index 192:
+    Window text: the rain i whisper to the skyline but it
+    Match ratio: 0.33
+
+  Trying window at index 193:
+    Window text: rain i whisper to the skyline but it never
+    Match ratio: 0.33
+
+  Trying window at index 194:
+    Window text: i whisper to the skyline but it never answers
+    Match ratio: 0.33
+
+  Trying window at index 195:
+    Window text: whisper to the skyline but it never answers back
+    Match ratio: 0.22
+
+  Trying window at index 196:
+    Window text: to the skyline but it never answers back i
+    Match ratio: 0.33
+
+  Trying window at index 197:
+    Window text: the skyline but it never answers back i reach
+    Match ratio: 0.33
+
+  Trying window at index 198:
+    Window text: skyline but it never answers back i reach for
+    Match ratio: 0.22
+
+  Trying window at index 199:
+    Window text: but it never answers back i reach for the
+    Match ratio: 0.33
+
+  Trying window at index 200:
+    Window text: it never answers back i reach for the past
+    Match ratio: 0.22
+
+  Trying window at index 201:
+    Window text: never answers back i reach for the past but
+    Match ratio: 0.33
+
+  Trying window at index 202:
+    Window text: answers back i reach for the past but it
+    Match ratio: 0.33
+
+  Trying window at index 203:
+    Window text: back i reach for the past but it fades
+    Match ratio: 0.33
+
+  Trying window at index 204:
+    Window text: i reach for the past but it fades into
+    Match ratio: 0.33
+
+  Trying window at index 205:
+    Window text: reach for the past but it fades into black
+    Match ratio: 0.22
+
+  Trying window at index 206:
+    Window text: for the past but it fades into black maybe
+    Match ratio: 0.22
+
+  Trying window at index 207:
+    Window text: the past but it fades into black maybe love
+    Match ratio: 0.22
+
+  Trying window at index 208:
+    Window text: past but it fades into black maybe love was
+    Match ratio: 0.11
+
+  Trying window at index 209:
+    Window text: but it fades into black maybe love was a
+    Match ratio: 0.11
+
+  Trying window at index 210:
+    Window text: it fades into black maybe love was a street
+    Match ratio: 0.00
+
+  Trying window at index 211:
+    Window text: fades into black maybe love was a street light
+    Match ratio: 0.00
+
+  Trying window at index 212:
+    Window text: into black maybe love was a street light flickering
+    Match ratio: 0.00
+
+Final match for line 21:
+  Matched from 94.58 to 100.50 (match ratio: 0.89)
+  Matched words:
+    - the: 94.58 - 95.58
+    - world: 95.58 - 95.98
+    - keeps: 95.98 - 96.56
+    - spinning: 96.56 - 97.24
+    - but: 97.74 - 98.08
+    - i: 98.08 - 98.38
+    - stay: 98.38 - 98.74
+    - the: 98.74 - 99.16
+    - same: 99.16 - 100.50
+Updated current_word_index to: 172
+
+Processing line 22: Heart like a record, skipping on your name,
+Words in line: ['heart', 'like', 'a', 'record', 'skipping', 'on', 'your', 'name']
+Current word index: 172
+Search range: 50
+Window size: 8
+
+  Trying window at index 172:
+    Window text: same heart like a record skipping on your
+    Match ratio: 0.88
+
+  Trying window at index 173:
+    Window text: heart like a record skipping on your name
+    Match ratio: 1.00
+
+Final match for line 22:
+  Matched from 102.12 to 107.38 (match ratio: 1.00)
+  Matched words:
+    - heart: 102.12 - 103.12
+    - like: 103.12 - 103.58
+    - a: 103.58 - 103.90
+    - record: 103.90 - 104.24
+    - skipping: 104.24 - 104.96
+    - on: 104.96 - 105.78
+    - your: 105.78 - 106.14
+    - name: 106.14 - 107.38
+Updated current_word_index to: 181
+
+Processing line 23: Tell me, do you feel it, or am I alone in the rain?
+Words in line: ['tell', 'me', 'do', 'you', 'feel', 'it', 'or', 'am', 'i', 'alone', 'in', 'the', 'rain']
+Current word index: 181
+Search range: 50
+Window size: 13
+
+  Trying window at index 181:
+    Window text: tell me do you feel it or am i alone in the rain
+    Match ratio: 1.00
+
+Final match for line 23:
+  Matched from 107.38 to 114.36 (match ratio: 1.00)
+  Matched words:
+    - tell: 107.38 - 108.18
+    - me: 108.18 - 108.92
+    - do: 109.52 - 109.64
+    - you: 109.64 - 109.80
+    - feel: 109.80 - 110.34
+    - it: 110.34 - 110.92
+    - or: 111.30 - 111.68
+    - am: 111.68 - 111.96
+    - i: 111.96 - 112.14
+    - alone: 112.14 - 112.68
+    - in: 112.68 - 113.10
+    - the: 113.10 - 113.44
+    - rain: 113.44 - 114.36
+Updated current_word_index to: 194
+
+Processing line 24: I whisper to the skyline, but it never answers back,
+Words in line: ['i', 'whisper', 'to', 'the', 'skyline', 'but', 'it', 'never', 'answers', 'back']
+Current word index: 194
+Search range: 50
+Window size: 10
+
+  Trying window at index 194:
+    Window text: i whisper to the skyline but it never answers back
+    Match ratio: 1.00
+
+Final match for line 24:
+  Matched from 115.40 to 121.84 (match ratio: 1.00)
+  Matched words:
+    - i: 115.40 - 116.24
+    - whisper: 116.24 - 116.62
+    - to: 116.62 - 116.96
+    - the: 116.96 - 117.14
+    - skyline: 117.14 - 118.54
+    - but: 118.78 - 119.64
+    - it: 119.64 - 119.86
+    - never: 119.86 - 120.26
+    - answers: 120.26 - 120.92
+    - back: 120.92 - 121.84
+Updated current_word_index to: 204
+
+Processing line 25: I reach for the past, but it fades into black.
+Words in line: ['i', 'reach', 'for', 'the', 'past', 'but', 'it', 'fades', 'into', 'black']
+Current word index: 204
+Search range: 50
+Window size: 10
+
+  Trying window at index 204:
+    Window text: i reach for the past but it fades into black
+    Match ratio: 1.00
+
+Final match for line 25:
+  Matched from 122.38 to 128.26 (match ratio: 1.00)
+  Matched words:
+    - i: 122.38 - 123.34
+    - reach: 123.34 - 123.66
+    - for: 123.66 - 124.10
+    - the: 124.10 - 124.28
+    - past: 124.28 - 125.34
+    - but: 125.48 - 125.86
+    - it: 125.86 - 126.14
+    - fades: 126.14 - 126.56
+    - into: 126.56 - 127.08
+    - black: 127.08 - 128.26
+Updated current_word_index to: 214
+
+Processing line 26: Maybe love was a streetlight flickering out,
+Words in line: ['maybe', 'love', 'was', 'a', 'streetlight', 'flickering', 'out']
+Current word index: 214
+Search range: 50
+Window size: 7
+
+  Trying window at index 214:
+    Window text: maybe love was a street light flickering
+    Match ratio: 0.71
+
+  Trying window at index 215:
+    Window text: love was a street light flickering out
+    Match ratio: 0.71
+
+  Trying window at index 216:
+    Window text: was a street light flickering out or
+    Match ratio: 0.57
+
+  Trying window at index 217:
+    Window text: a street light flickering out or maybe
+    Match ratio: 0.57
+
+  Trying window at index 218:
+    Window text: street light flickering out or maybe im
+    Match ratio: 0.43
+
+  Trying window at index 219:
+    Window text: light flickering out or maybe im just
+    Match ratio: 0.43
+
+  Trying window at index 220:
+    Window text: flickering out or maybe im just learning
+    Match ratio: 0.43
+
+  Trying window at index 221:
+    Window text: out or maybe im just learning what
+    Match ratio: 0.29
+
+  Trying window at index 222:
+    Window text: or maybe im just learning what lifes
+    Match ratio: 0.14
+
+  Trying window at index 223:
+    Window text: maybe im just learning what lifes all
+    Match ratio: 0.14
+
+  Trying window at index 224:
+    Window text: im just learning what lifes all about
+    Match ratio: 0.00
+
+  Trying window at index 225:
+    Window text: just learning what lifes all about im
+    Match ratio: 0.00
+
+  Trying window at index 226:
+    Window text: learning what lifes all about im caught
+    Match ratio: 0.00
+
+  Trying window at index 227:
+    Window text: what lifes all about im caught in
+    Match ratio: 0.00
+
+  Trying window at index 228:
+    Window text: lifes all about im caught in the
+    Match ratio: 0.00
+
+  Trying window at index 229:
+    Window text: all about im caught in the motion
+    Match ratio: 0.00
+
+  Trying window at index 230:
+    Window text: about im caught in the motion midnight
+    Match ratio: 0.00
+
+  Trying window at index 231:
+    Window text: im caught in the motion midnight in
+    Match ratio: 0.00
+
+  Trying window at index 232:
+    Window text: caught in the motion midnight in my
+    Match ratio: 0.00
+
+  Trying window at index 233:
+    Window text: in the motion midnight in my veins
+    Match ratio: 0.00
+
+  Trying window at index 234:
+    Window text: the motion midnight in my veins the
+    Match ratio: 0.00
+
+  Trying window at index 235:
+    Window text: motion midnight in my veins the world
+    Match ratio: 0.00
+
+  Trying window at index 236:
+    Window text: midnight in my veins the world keeps
+    Match ratio: 0.00
+
+  Trying window at index 237:
+    Window text: in my veins the world keeps spinning
+    Match ratio: 0.00
+
+  Trying window at index 238:
+    Window text: my veins the world keeps spinning but
+    Match ratio: 0.00
+
+  Trying window at index 239:
+    Window text: veins the world keeps spinning but i
+    Match ratio: 0.00
+
+  Trying window at index 240:
+    Window text: the world keeps spinning but i stay
+    Match ratio: 0.00
+
+  Trying window at index 241:
+    Window text: world keeps spinning but i stay the
+    Match ratio: 0.00
+
+  Trying window at index 242:
+    Window text: keeps spinning but i stay the same
+    Match ratio: 0.00
+
+  Trying window at index 243:
+    Window text: spinning but i stay the same heart
+    Match ratio: 0.00
+
+  Trying window at index 244:
+    Window text: but i stay the same heart like
+    Match ratio: 0.00
+
+  Trying window at index 245:
+    Window text: i stay the same heart like a
+    Match ratio: 0.14
+
+  Trying window at index 246:
+    Window text: stay the same heart like a record
+    Match ratio: 0.14
+
+  Trying window at index 247:
+    Window text: the same heart like a record skipping
+    Match ratio: 0.14
+
+  Trying window at index 248:
+    Window text: same heart like a record skipping on
+    Match ratio: 0.14
+
+  Trying window at index 249:
+    Window text: heart like a record skipping on your
+    Match ratio: 0.14
+
+  Trying window at index 250:
+    Window text: like a record skipping on your name
+    Match ratio: 0.14
+
+  Trying window at index 251:
+    Window text: a record skipping on your name tell
+    Match ratio: 0.14
+
+  Trying window at index 252:
+    Window text: record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 253:
+    Window text: skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 254:
+    Window text: on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 255:
+    Window text: your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 256:
+    Window text: name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 257:
+    Window text: tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 258:
+    Window text: me do you feel it or am
+    Match ratio: 0.00
+
+  Trying window at index 259:
+    Window text: do you feel it or am i
+    Match ratio: 0.00
+
+  Trying window at index 260:
+    Window text: you feel it or am i alone
+    Match ratio: 0.00
+
+  Trying window at index 261:
+    Window text: feel it or am i alone in
+    Match ratio: 0.00
+
+  Trying window at index 262:
+    Window text: it or am i alone in the
+    Match ratio: 0.00
+
+  Trying window at index 263:
+    Window text: or am i alone in the rain
+    Match ratio: 0.00
+
+Final match for line 26:
+  Matched from 129.50 to 134.82 (match ratio: 0.71)
+  Matched words:
+    - maybe: 129.50 - 130.34
+    - love: 130.34 - 130.88
+    - was: 130.88 - 131.24
+    - a: 131.24 - 131.36
+    - street: 131.36 - 131.70
+    - light: 131.70 - 132.74
+    - flickering: 132.74 - 134.82
+Updated current_word_index to: 220
+
+Processing line 27: Or maybe I’m just learning what life’s all about.
+Words in line: ['or', 'maybe', 'im', 'just', 'learning', 'what', 'lifes', 'all', 'about']
+Current word index: 220
+Search range: 50
+Window size: 9
+
+  Trying window at index 220:
+    Window text: flickering out or maybe im just learning what lifes
+    Match ratio: 0.78
+
+  Trying window at index 221:
+    Window text: out or maybe im just learning what lifes all
+    Match ratio: 0.89
+
+  Trying window at index 222:
+    Window text: or maybe im just learning what lifes all about
+    Match ratio: 1.00
+
+Final match for line 27:
+  Matched from 136.10 to 142.42 (match ratio: 1.00)
+  Matched words:
+    - or: 136.10 - 137.54
+    - maybe: 137.54 - 137.96
+    - im: 137.96 - 138.58
+    - just: 138.58 - 138.76
+    - learning: 138.76 - 139.78
+    - what: 139.78 - 140.70
+    - lifes: 140.70 - 141.32
+    - all: 141.32 - 141.64
+    - about: 141.64 - 142.42
+Updated current_word_index to: 231
+
+Processing line 28: I’m caught in the motion, midnight in my veins,
+Words in line: ['im', 'caught', 'in', 'the', 'motion', 'midnight', 'in', 'my', 'veins']
+Current word index: 231
+Search range: 50
+Window size: 9
+
+  Trying window at index 231:
+    Window text: im caught in the motion midnight in my veins
+    Match ratio: 0.89
+
+  Trying window at index 232:
+    Window text: caught in the motion midnight in my veins the
+    Match ratio: 0.78
+
+  Trying window at index 233:
+    Window text: in the motion midnight in my veins the world
+    Match ratio: 0.67
+
+  Trying window at index 234:
+    Window text: the motion midnight in my veins the world keeps
+    Match ratio: 0.67
+
+  Trying window at index 235:
+    Window text: motion midnight in my veins the world keeps spinning
+    Match ratio: 0.67
+
+  Trying window at index 236:
+    Window text: midnight in my veins the world keeps spinning but
+    Match ratio: 0.56
+
+  Trying window at index 237:
+    Window text: in my veins the world keeps spinning but i
+    Match ratio: 0.44
+
+  Trying window at index 238:
+    Window text: my veins the world keeps spinning but i stay
+    Match ratio: 0.33
+
+  Trying window at index 239:
+    Window text: veins the world keeps spinning but i stay the
+    Match ratio: 0.22
+
+  Trying window at index 240:
+    Window text: the world keeps spinning but i stay the same
+    Match ratio: 0.11
+
+  Trying window at index 241:
+    Window text: world keeps spinning but i stay the same heart
+    Match ratio: 0.11
+
+  Trying window at index 242:
+    Window text: keeps spinning but i stay the same heart like
+    Match ratio: 0.11
+
+  Trying window at index 243:
+    Window text: spinning but i stay the same heart like a
+    Match ratio: 0.11
+
+  Trying window at index 244:
+    Window text: but i stay the same heart like a record
+    Match ratio: 0.11
+
+  Trying window at index 245:
+    Window text: i stay the same heart like a record skipping
+    Match ratio: 0.11
+
+  Trying window at index 246:
+    Window text: stay the same heart like a record skipping on
+    Match ratio: 0.11
+
+  Trying window at index 247:
+    Window text: the same heart like a record skipping on your
+    Match ratio: 0.11
+
+  Trying window at index 248:
+    Window text: same heart like a record skipping on your name
+    Match ratio: 0.00
+
+  Trying window at index 249:
+    Window text: heart like a record skipping on your name tell
+    Match ratio: 0.00
+
+  Trying window at index 250:
+    Window text: like a record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 251:
+    Window text: a record skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 252:
+    Window text: record skipping on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 253:
+    Window text: skipping on your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 254:
+    Window text: on your name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 255:
+    Window text: your name tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 256:
+    Window text: name tell me do you feel it or am
+    Match ratio: 0.00
+
+  Trying window at index 257:
+    Window text: tell me do you feel it or am i
+    Match ratio: 0.00
+
+  Trying window at index 258:
+    Window text: me do you feel it or am i alone
+    Match ratio: 0.00
+
+  Trying window at index 259:
+    Window text: do you feel it or am i alone in
+    Match ratio: 0.11
+
+  Trying window at index 260:
+    Window text: you feel it or am i alone in the
+    Match ratio: 0.22
+
+  Trying window at index 261:
+    Window text: feel it or am i alone in the rain
+    Match ratio: 0.22
+
+  Trying window at index 262:
+    Window text: it or am i alone in the rain standing
+    Match ratio: 0.22
+
+  Trying window at index 263:
+    Window text: or am i alone in the rain standing still
+    Match ratio: 0.22
+
+  Trying window at index 264:
+    Window text: am i alone in the rain standing still in
+    Match ratio: 0.22
+
+  Trying window at index 265:
+    Window text: i alone in the rain standing still in a
+    Match ratio: 0.22
+
+  Trying window at index 266:
+    Window text: alone in the rain standing still in a world
+    Match ratio: 0.22
+
+  Trying window at index 267:
+    Window text: in the rain standing still in a world that
+    Match ratio: 0.22
+
+  Trying window at index 268:
+    Window text: the rain standing still in a world that wont
+    Match ratio: 0.22
+
+  Trying window at index 269:
+    Window text: rain standing still in a world that wont wait
+    Match ratio: 0.11
+
+  Trying window at index 270:
+    Window text: standing still in a world that wont wait between
+    Match ratio: 0.11
+
+  Trying window at index 271:
+    Window text: still in a world that wont wait between yesterday
+    Match ratio: 0.11
+
+  Trying window at index 272:
+    Window text: in a world that wont wait between yesterday and
+    Match ratio: 0.11
+
+  Trying window at index 273:
+    Window text: a world that wont wait between yesterday and a
+    Match ratio: 0.00
+
+  Trying window at index 274:
+    Window text: world that wont wait between yesterday and a runaway
+    Match ratio: 0.00
+
+  Trying window at index 275:
+    Window text: that wont wait between yesterday and a runaway fate
+    Match ratio: 0.00
+
+  Trying window at index 276:
+    Window text: wont wait between yesterday and a runaway fate if
+    Match ratio: 0.00
+
+  Trying window at index 277:
+    Window text: wait between yesterday and a runaway fate if i
+    Match ratio: 0.00
+
+  Trying window at index 278:
+    Window text: between yesterday and a runaway fate if i let
+    Match ratio: 0.00
+
+  Trying window at index 279:
+    Window text: yesterday and a runaway fate if i let go
+    Match ratio: 0.00
+
+  Trying window at index 280:
+    Window text: and a runaway fate if i let go will
+    Match ratio: 0.00
+
+Final match for line 28:
+  Matched from 143.09 to 148.50 (match ratio: 0.89)
+  Matched words:
+    - im: 143.09 - 143.64
+    - caught: 143.64 - 144.02
+    - in: 144.02 - 144.50
+    - the: 144.50 - 144.70
+    - motion: 144.70 - 145.30
+    - midnight: 145.30 - 146.18
+    - in: 146.18 - 146.72
+    - my: 146.72 - 147.04
+    - veins: 147.04 - 148.50
+Updated current_word_index to: 239
+
+Processing line 29: The world keeps spinning, but I stay the same.
+Words in line: ['the', 'world', 'keeps', 'spinning', 'but', 'i', 'stay', 'the', 'same']
+Current word index: 239
+Search range: 50
+Window size: 9
+
+  Trying window at index 239:
+    Window text: veins the world keeps spinning but i stay the
+    Match ratio: 0.78
+
+  Trying window at index 240:
+    Window text: the world keeps spinning but i stay the same
+    Match ratio: 0.89
+
+  Trying window at index 241:
+    Window text: world keeps spinning but i stay the same heart
+    Match ratio: 0.89
+
+  Trying window at index 242:
+    Window text: keeps spinning but i stay the same heart like
+    Match ratio: 0.78
+
+  Trying window at index 243:
+    Window text: spinning but i stay the same heart like a
+    Match ratio: 0.67
+
+  Trying window at index 244:
+    Window text: but i stay the same heart like a record
+    Match ratio: 0.56
+
+  Trying window at index 245:
+    Window text: i stay the same heart like a record skipping
+    Match ratio: 0.44
+
+  Trying window at index 246:
+    Window text: stay the same heart like a record skipping on
+    Match ratio: 0.33
+
+  Trying window at index 247:
+    Window text: the same heart like a record skipping on your
+    Match ratio: 0.22
+
+  Trying window at index 248:
+    Window text: same heart like a record skipping on your name
+    Match ratio: 0.11
+
+  Trying window at index 249:
+    Window text: heart like a record skipping on your name tell
+    Match ratio: 0.00
+
+  Trying window at index 250:
+    Window text: like a record skipping on your name tell me
+    Match ratio: 0.00
+
+  Trying window at index 251:
+    Window text: a record skipping on your name tell me do
+    Match ratio: 0.00
+
+  Trying window at index 252:
+    Window text: record skipping on your name tell me do you
+    Match ratio: 0.00
+
+  Trying window at index 253:
+    Window text: skipping on your name tell me do you feel
+    Match ratio: 0.00
+
+  Trying window at index 254:
+    Window text: on your name tell me do you feel it
+    Match ratio: 0.00
+
+  Trying window at index 255:
+    Window text: your name tell me do you feel it or
+    Match ratio: 0.00
+
+  Trying window at index 256:
+    Window text: name tell me do you feel it or am
+    Match ratio: 0.00
+
+  Trying window at index 257:
+    Window text: tell me do you feel it or am i
+    Match ratio: 0.11
+
+  Trying window at index 258:
+    Window text: me do you feel it or am i alone
+    Match ratio: 0.11
+
+  Trying window at index 259:
+    Window text: do you feel it or am i alone in
+    Match ratio: 0.11
+
+  Trying window at index 260:
+    Window text: you feel it or am i alone in the
+    Match ratio: 0.22
+
+  Trying window at index 261:
+    Window text: feel it or am i alone in the rain
+    Match ratio: 0.22
+
+  Trying window at index 262:
+    Window text: it or am i alone in the rain standing
+    Match ratio: 0.22
+
+  Trying window at index 263:
+    Window text: or am i alone in the rain standing still
+    Match ratio: 0.22
+
+  Trying window at index 264:
+    Window text: am i alone in the rain standing still in
+    Match ratio: 0.22
+
+  Trying window at index 265:
+    Window text: i alone in the rain standing still in a
+    Match ratio: 0.22
+
+  Trying window at index 266:
+    Window text: alone in the rain standing still in a world
+    Match ratio: 0.22
+
+  Trying window at index 267:
+    Window text: in the rain standing still in a world that
+    Match ratio: 0.22
+
+  Trying window at index 268:
+    Window text: the rain standing still in a world that wont
+    Match ratio: 0.22
+
+  Trying window at index 269:
+    Window text: rain standing still in a world that wont wait
+    Match ratio: 0.11
+
+  Trying window at index 270:
+    Window text: standing still in a world that wont wait between
+    Match ratio: 0.11
+
+  Trying window at index 271:
+    Window text: still in a world that wont wait between yesterday
+    Match ratio: 0.11
+
+  Trying window at index 272:
+    Window text: in a world that wont wait between yesterday and
+    Match ratio: 0.11
+
+  Trying window at index 273:
+    Window text: a world that wont wait between yesterday and a
+    Match ratio: 0.11
+
+  Trying window at index 274:
+    Window text: world that wont wait between yesterday and a runaway
+    Match ratio: 0.11
+
+  Trying window at index 275:
+    Window text: that wont wait between yesterday and a runaway fate
+    Match ratio: 0.00
+
+  Trying window at index 276:
+    Window text: wont wait between yesterday and a runaway fate if
+    Match ratio: 0.00
+
+  Trying window at index 277:
+    Window text: wait between yesterday and a runaway fate if i
+    Match ratio: 0.11
+
+  Trying window at index 278:
+    Window text: between yesterday and a runaway fate if i let
+    Match ratio: 0.11
+
+  Trying window at index 279:
+    Window text: yesterday and a runaway fate if i let go
+    Match ratio: 0.11
+
+  Trying window at index 280:
+    Window text: and a runaway fate if i let go will
+    Match ratio: 0.11
+
+  Trying window at index 281:
+    Window text: a runaway fate if i let go will the
+    Match ratio: 0.22
+
+  Trying window at index 282:
+    Window text: runaway fate if i let go will the stars
+    Match ratio: 0.22
+
+  Trying window at index 283:
+    Window text: fate if i let go will the stars realign
+    Match ratio: 0.22
+
+  Trying window at index 284:
+    Window text: if i let go will the stars realign or
+    Match ratio: 0.22
+
+  Trying window at index 285:
+    Window text: i let go will the stars realign or am
+    Match ratio: 0.22
+
+  Trying window at index 286:
+    Window text: let go will the stars realign or am i
+    Match ratio: 0.22
+
+  Trying window at index 287:
+    Window text: go will the stars realign or am i just
+    Match ratio: 0.22
+
+  Trying window at index 288:
+    Window text: will the stars realign or am i just another
+    Match ratio: 0.22
+
+Final match for line 29:
+  Matched from 149.62 to 155.78 (match ratio: 0.89)
+  Matched words:
+    - the: 149.62 - 150.72
+    - world: 150.72 - 151.10
+    - keeps: 151.10 - 151.74
+    - spinning: 151.74 - 152.30
+    - but: 152.84 - 153.20
+    - i: 153.20 - 153.50
+    - stay: 153.50 - 153.90
+    - the: 153.90 - 154.26
+    - same: 154.26 - 155.78
+Updated current_word_index to: 248
+
+Processing line 30: Heart like a record, skipping on your name,
+Words in line: ['heart', 'like', 'a', 'record', 'skipping', 'on', 'your', 'name']
+Current word index: 248
+Search range: 50
+Window size: 8
+
+  Trying window at index 248:
+    Window text: same heart like a record skipping on your
+    Match ratio: 0.88
+
+  Trying window at index 249:
+    Window text: heart like a record skipping on your name
+    Match ratio: 1.00
+
+Final match for line 30:
+  Matched from 157.14 to 162.46 (match ratio: 1.00)
+  Matched words:
+    - heart: 157.14 - 158.24
+    - like: 158.24 - 158.70
+    - a: 158.70 - 159.00
+    - record: 159.00 - 159.34
+    - skipping: 159.34 - 160.06
+    - on: 160.06 - 160.94
+    - your: 160.94 - 161.26
+    - name: 161.26 - 162.46
+Updated current_word_index to: 257
+
+Processing line 31: Tell me, do you feel it, or am I alone in the rain?
+Words in line: ['tell', 'me', 'do', 'you', 'feel', 'it', 'or', 'am', 'i', 'alone', 'in', 'the', 'rain']
+Current word index: 257
+Search range: 50
+Window size: 13
+
+  Trying window at index 257:
+    Window text: tell me do you feel it or am i alone in the rain
+    Match ratio: 1.00
+
+Final match for line 31:
+  Matched from 162.46 to 169.38 (match ratio: 1.00)
+  Matched words:
+    - tell: 162.46 - 163.32
+    - me: 163.32 - 163.94
+    - do: 164.62 - 164.76
+    - you: 164.76 - 164.90
+    - feel: 164.90 - 165.48
+    - it: 165.48 - 166.10
+    - or: 166.42 - 166.80
+    - am: 166.80 - 167.08
+    - i: 167.08 - 167.26
+    - alone: 167.26 - 167.80
+    - in: 167.80 - 168.26
+    - the: 168.26 - 168.56
+    - rain: 168.56 - 169.38
+Updated current_word_index to: 270
+
+Processing line 32: Standing still in a world that won’t wait,
+Words in line: ['standing', 'still', 'in', 'a', 'world', 'that', 'wont', 'wait']
+Current word index: 270
+Search range: 41
+Window size: 8
+
+  Trying window at index 270:
+    Window text: standing still in a world that wont wait
+    Match ratio: 1.00
+
+Final match for line 32:
+  Matched from 170.92 to 174.40 (match ratio: 1.00)
+  Matched words:
+    - standing: 170.92 - 171.80
+    - still: 171.80 - 172.52
+    - in: 172.52 - 172.82
+    - a: 172.82 - 173.06
+    - world: 173.06 - 173.34
+    - that: 173.34 - 173.66
+    - wont: 173.66 - 173.96
+    - wait: 173.96 - 174.40
+Updated current_word_index to: 278
+
+Processing line 33: Between yesterday and a runaway fate.
+Words in line: ['between', 'yesterday', 'and', 'a', 'runaway', 'fate']
+Current word index: 278
+Search range: 33
+Window size: 6
+
+  Trying window at index 278:
+    Window text: between yesterday and a runaway fate
+    Match ratio: 1.00
+
+Final match for line 33:
+  Matched from 174.40 to 178.00 (match ratio: 1.00)
+  Matched words:
+    - between: 174.40 - 175.10
+    - yesterday: 175.10 - 175.56
+    - and: 175.56 - 176.40
+    - a: 176.40 - 176.60
+    - runaway: 176.60 - 177.24
+    - fate: 177.24 - 178.00
+Updated current_word_index to: 284
+
+Processing line 34: If I let go, will the stars realign?
+Words in line: ['if', 'i', 'let', 'go', 'will', 'the', 'stars', 'realign']
+Current word index: 284
+Search range: 27
+Window size: 8
+
+  Trying window at index 284:
+    Window text: if i let go will the stars realign
+    Match ratio: 1.00
+
+Final match for line 34:
+  Matched from 178.00 to 181.50 (match ratio: 1.00)
+  Matched words:
+    - if: 178.00 - 178.62
+    - i: 178.62 - 178.76
+    - let: 178.76 - 179.08
+    - go: 179.08 - 179.46
+    - will: 179.74 - 179.90
+    - the: 179.90 - 180.00
+    - stars: 180.00 - 180.42
+    - realign: 180.42 - 181.50
+Updated current_word_index to: 292
+
+Processing line 35: Or am I just another lost light in the night?
+Words in line: ['or', 'am', 'i', 'just', 'another', 'lost', 'light', 'in', 'the', 'night']
+Current word index: 292
+Search range: 19
+Window size: 10
+
+  Trying window at index 292:
+    Window text: or am i just another lost light in the night
+    Match ratio: 1.00
+
+Final match for line 35:
+  Matched from 181.50 to 187.02 (match ratio: 1.00)
+  Matched words:
+    - or: 181.50 - 182.06
+    - am: 182.06 - 182.30
+    - i: 182.30 - 182.50
+    - just: 182.50 - 182.78
+    - another: 182.78 - 183.32
+    - lost: 183.32 - 184.22
+    - light: 184.22 - 184.80
+    - in: 184.80 - 185.92
+    - the: 185.92 - 186.22
+    - night: 186.22 - 187.02
+Updated current_word_index to: 302
+
